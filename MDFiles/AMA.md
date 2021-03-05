@@ -1,4 +1,6 @@
-# 5/03/2021
+# AMA
+
+## 5/03/2021
 
 ### How does it work with sensors, are sensors from other producers compatible with the network or do sensors have to be from MXC in order to work? @Ab CD
 
@@ -22,7 +24,7 @@ The Bitcoin mining aspect is fairly complex. The easiest answer is that since MX
 
 As you already might know, ALL your miners will be used as an **LPWAN umbrella**☔️ for millions of #IoT devices out there (many M2 Pro users already might have seen data packets in their DataDash), it means that the location of your M2 Pro will play a significant role, which eventually brings us to the question:
 
-- How can we set up our M2 Pro in the best possible position to ensure a decent coverage??
+How can we set up our M2 Pro in the best possible position to ensure a decent coverage?
 
 And the LTE option is an answer for it! 📡
 ﻿
@@ -33,8 +35,7 @@ And the LTE option is an answer for it! 📡
 Solar panel + LTE = FULLY INDEPENDENCY AND ZERO EMISSIONS!   ☀️🤝🔋
 
 Is anyone from California here or Latin America? 😉
-<i>Kirill</i>
-
+<br><i>Kirill</i>
 
 ### Could you explain to be able to reference each time that is named in the tg group how the pop system works in the low power mining of BTC. The main misunderstanding is to believe that the power to mine comes exclusively from the sum of the hash power of the m2pro as if it were a powdered mining in the cloud. Thank you @j_wolfeng
 
@@ -43,13 +44,12 @@ Oh wow, that's a very profound question!
 You’re right, it’s not the exclusive sum of the hash power. M2 Pro does not operate on a PoW model so there is no hash power to measure. The process involves looking at the PoP mining rate as participating miners would mine data blocks, and leveraging our parachain to convert the rewards within that data block into Bitcoin, and some tweak to essentially position each M2 Pro as an independent yet collaborative node that would bid to mine for Bitcoin dust. So the main aspect is the MXC parachain, not the hash rate.
 
 I tried to simplify it a bit, but I'm not realising it's quite a big chunk of information! :D I'll of course take some opportunity later to talk more in detail about it (:
-<i>Siwon</i>
+<br><i>Siwon</i>
 
 ### Please could you clarify for the benefit of holders and miners. The ongoing Das Keiser testnet trials has attracted people to this project but are miners actually hashing to mine the BTC rewards or are the BTC rewards a giveaway by MXC for participating in the network? @SilkOP001
 
 I think my previous answer already addresses this aspect. The only part in which direct giveaway by MXC is involved is that a portion of the BTC reward is subsidised by MXC. The technology is there, and it’s amazing what our parachain can do, and how the industry has evolved to be able to support this. The BTC rewards would be smaller without our subsidy. The reason for this subsidy is to keep it fair. The MXC earnings for miners at the moment are subsidised. So if we took that subsidy away just because the miners are now earning BTC, it wouldn’t be very fair. Thanks for the excellent question! (:
-<i>Siwon</i>
-
+<br><i>Siwon</i>
 
 ### I own 1 m2pro and several Helium Hotspots. Where does the big price difference come from? #Twitter
 
@@ -74,13 +74,11 @@ The M2 Pro uses patented technology that isnt available elsewhere, these patents
 Ah, a Polkadot question! I've been getting quite a few of those, so I'm glad it's here so everyone can see (: I'll try to keep it short!
 So when $DOT mining... 
 
-
 We are waiting for Polkadot ecosystem to be a bit more stable than it is at the current state. Once that stability has been reached, we will roll out DOT mining.
 In terms of what everyone can expect...
 We have hinted at an alliance between Polkadot, Data Highway, and MXC. The partnership will definitely increase the level of MXC’s involvement within the Polkadot ecosystem. Data Highway will provide the necessary bridge between MXC and Polkadot!
 And of course, this will make MXC one of the big names in crypto 😉
 <br><i>Siwon</i>
-
 
 ### Its there in the works a platform with all kind of functions (dashboard, monitoring, easy of use, etc) to handle the devices that in the future will connect to the most advance crypto/gateway of lorawan the m2 pro miner?
 
@@ -106,11 +104,9 @@ The government grant is used to develop new technologies and expand the network 
 
 A lot of people often think that when we receive millions of dollars from a government as part of a partnership, the money goes into “pumping” the token. If that was the case, it wouldn’t really be responsible usage of the funds. 
 However, that fund is used to create new streams that will bring returns to the token holders. That stream may not be as fast as most traders would want, but it is a concrete and wide stream. So you will see results of it as things unfold (:
-<i>Siwon</i>
+<br><i>Siwon</i>
 
 ### Is there a place where I can see what improvements are brought with each firmware update of the M2Pro? My miners all out of date and I would like to know what I’m missing out @andresovela 
-
-Thanks @CryptoKeith 🙂
 
 We all love our DataDash and how it woks! 
 But it doesn't mean we gonna stop with future developments! 
@@ -141,13 +137,11 @@ The camera is made with the same philosophy in mind as the M2 Pro - Plug ‘n Pl
 
 Just an example: you can set up your camera at the front of the door, the camera will be able to detect any human or wild animal presence nearby your property and send you push notifications right on your phone. 
 
- 
 Other use-case which are already on its way:
 
 - Smart Parking
 - Vehicle/Human counting
 - More is coming!
-
 
 Advantages of this camera:
 
@@ -161,7 +155,6 @@ In the next month, we’re going to receive the first unit of MatchX AI Camera!!
 
 Stay tuned in for some sneak peeks 📸🧠
 <br><i>Kirill</i>
-
 
 ### what are the advantages if the team decides to migrate to parachain platform? If difficult to switch if it decide would take several months?
 
