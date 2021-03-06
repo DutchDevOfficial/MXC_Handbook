@@ -1,3 +1,3 @@
-# Headline
+# MXC AMAs
 
-> An awesome project.
+> Community project to host AMA questions and answers
