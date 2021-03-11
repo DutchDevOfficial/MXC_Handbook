@@ -1,5 +1,7 @@
 * [info](MDFiles/Info.md)
 
+* [Start earning](MDFiles/earning.md)
+
 * AMA
     * [AMA Procedure](MDFiles/AMA_Procedure.md)
 
