@@ -53,7 +53,7 @@ And lastly, apart from hardware supremacy, Helium is simply built using Raspberr
 **The M2 Pro uses patented technology that isnt available elsewhere**, these patents cost money and so does the extra effort that we put into our Miner, we built a german engineered miner, and we built it right. 🇩🇪✊
 <br><i>Kirill</i>
 
-## HOW DO M2 PRO SPECIFICATIONS COMPARE TO OTHER MINERS?
+## How do m2 pro specifications compare to other miners?
 The M2 Pro Miner is unlike any other IoT miner, **it is a purpose built, low-power, multi-token Miner, using intellectual property, our own trademarks, and a few pending patents.**
 
 The M2 Pro is a **german engineered** master-crafted Crypto Miner that you simply can’t buy “off the shelf”, like other Raspberry Pi-based Miners. How can we prove this?
@@ -73,16 +73,16 @@ Built-in hardware secure elements, xp hardware identification & security
 **The all-weather outdoor miner, industrial temperature range from -40 degrees celsius (-40F) to +60 degrees celsius (+140F)**
 <br><a href="https://mxcfoundation.medium.com/worlds-most-popular-iot-miner-m2-pro-5f3d56d87a16">source </a>
 
-## Do you need data transfer on the M2 Pro to mine MXC?  
+## Do you need data transfer on the m2 pro to mine mxc?  
 M2 Pro runs on **PoP (Proof Of Paricipation)** which includes data transfers as a factor which will be affecting your mining rewards. Though, you sill will be mining tokens for just participating in the decentralized LPWAN network. Earning based on data packets will be on top of base income. 
 <br><i>Kirill</i>
 
-## HOW LONG WILL THE M2 PRO MINE FOR?
+## How long will the m2 pro mine for?
 The MXC Foundation is committed to creating a vibrant data network. To do this we must ensure that miners stay active, how do $MXC ensure that miners stay active? By continuing the POP process, it is in the interest of $MXC, Miners, and the Data community to keep the M2 Pro miners in operation for as long as possible. Our goal is to have this network fully self-sustainable, but we also realize this will take time, this is a journey we are prepared to walk together, with our miners and community.
 In regards to the M2 Pro miner and the material and product itself, we expect our award-winning M2 Pro Miner to continue to function as a data network powerhouse for **up to 10 years**, that’s **German engineering**, that’s high-class materials, that’s MatchX quality!
 <br><a href="https://mxcfoundation.medium.com/worlds-most-popular-iot-miner-m2-pro-5f3d56d87a16">source </a>
 
-## WHERE CAN I SEE THIS GLOBAL DATA NETWORK?
+## Where can i see this global data network?
 You can view your, and many other M2 Pro on <a href="MXCMapper.com">MXCMapper</a> this is a website where you can see most of the M2 Pro that are connected to Data Dash and from whom we receive a “heartbeat”. Miners who do not demonstrate a heartbeat will not show on this map.
 
 **M2 Pro Miners are highlighted in BLUE**, for other LPWAN / LoRA devices, they are in GREY. We show both of these elements for a key reason, yes, MXC is a company that promotes the $MXC Token and the M2 Pro Miner, but more importantly we are here to promote “LPWAN” and “LoRa Technologies” as a basis for our existence. Without this decentralized network, there is no Data Network, so the MXCMapper site allows and promotes new users to this technology to see the length and breadth of this groundbreaking, global data network. We believe in LPWAN (Low Power Wide Area Network) and wherever we can, we will promote this technology.
