@@ -1,14 +1,17 @@
 * [info](MDFiles/Info.md)
 
-* [Start earning](MDFiles/earning.md)
+- Handbook   
+    - [Handbook](MDFiles/Handbook/handbook.md)   
+    - [FAQ Telegram](MDFiles/Handbook/M2_FAQ.md)
+    - [Gold Coins](MDFiles/Handbook/goldcoins.md)
 
-* [FAQ](MDFiles/M2_FAQ.md)
+- AMA
+    - [AMA Procedure](MDFiles/AMA/AMA_Procedure.md)
 
-* AMA
-    * [AMA Procedure](MDFiles/AMA_Procedure.md)
+    - [Top 5 take-aways](MDFiles/AMA/AMA_top5.md)
 
-    * [AMA](MDFiles/AMA.md)
-        * [5/03/2021](MDFiles/AMA?id=_5032021)
+    - [AMA's](MDFiles/AMA/AMA.md)
+
 
 
 
