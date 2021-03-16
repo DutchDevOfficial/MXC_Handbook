@@ -1,1 +1,0 @@
-![MXC](../Assets/Made/MXC_earningv2.png)
