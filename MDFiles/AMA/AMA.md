@@ -130,7 +130,7 @@ And, please keep in mind that we’re here for you! All your suggestions and wis
 Don’t be shy! Only together we can build the #FutureOfIoT 〽️
 <br><i>Kirill</i>
 
-### What kind of sensor we could see in the short future, giving more details about things like AI that you have show in the past? Any exciting sensor coming or partnership with big sensor company?
+### What kind of sensor we could see in the short future, giving more details about things like ai that you have show in the past? any exciting sensor coming or partnership with big sensor company?
 Any #LoRAWAN compatible sensors can work with M2 Pro. Currently, our main focus is on AI Camera (here’s a link for the Devkit, it’s called EdgeX - https://www.matchx.io/edgexdevkit/#edgexdevkit). 
 
 The camera is made with the same philosophy in mind as the M2 Pro - Plug ‘n Play - it means that everyone will be able to set up this camera for their own purposes, simply by scanning the QR code and it will be connected to your DataDash account and M2 Pros around. 
@@ -156,7 +156,7 @@ In the next month, we’re going to receive the first unit of MatchX AI Camera!!
 Stay tuned in for some sneak peeks 📸🧠
 <br><i>Kirill</i>
 
-### what are the advantages if the team decides to migrate to parachain platform? If difficult to switch if it decide would take several months?
+### What are the advantages if the team decides to migrate to parachain platform? if difficult to switch if it decide would take several months?
 
 Ever since around 3 years ago when MXC started, we started as a parachain. So I don’t think migration to the parachain platform is the right word. We were always a parachain, before the parachain hype started. MXC is one of the most established parachain, because we had 3 years to build this. So once Polkadot is more stable, the integration of MXC parachain into Polkadot will be quite seamless. 
 The advantage of this would mainly be on the expansion of the MXC ecosystem, and therefore more widespread usage of MXProtocol, meaning more demand for $MXC 🔥🚀
