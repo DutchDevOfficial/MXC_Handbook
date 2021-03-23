@@ -17,6 +17,7 @@ The financial return on an M2 Pro can vary greatly, MXC can not give any guarant
 ## Where can I buy one?
 You can buy them straight from the manufacturer: 
 https://www.matchx.io/product/m2-pro-lpwan-crypto-miner/
+<br>[Promo code](MDFiles/Handbook/promocodes.md)
 
 ## Does the M2 gets shipped to the US?
 **Yes**, there is even a US warehouse.
