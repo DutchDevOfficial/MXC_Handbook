@@ -11,6 +11,7 @@
     - [AMA's](MDFiles/AMA/AMA.md)
 
 - Contact
+    - [Help to build](MDFiles/Contact/contact.md)
     - [Telegram](https://t.me/Dutchdev)
 
 
