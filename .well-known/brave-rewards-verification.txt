@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: mxchandbook.org
+Token: 21b91250cf46ddbe5f8a863472b0fc4ebeada84a5a4e0f94466f63e40f8dc24e
