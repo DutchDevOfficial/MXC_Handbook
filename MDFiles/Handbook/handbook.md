@@ -11,20 +11,39 @@ This is a great video from MXC explaining the protocol:
 
 ## Why MXC Works
 This table shows the difference between the different iot projects.
-![MXC_works](../../Assets/MXC_Extra/mxc.works.jpg)
-### IOT Protocols
-![MXC_works](../../Assets/MXC_Extra/mxc.works2.jpg)
 
+| Technology | MXC | IOTA | Streamr | Helium
+| - | - | - | - | - |
+| Tx Speed | within 5s | minutes to hours | minutees to hours | within 5s |
+| Inter-chain data | Yes | No | No | No |
+| Anti-collision | Yes | No | No | No |
+| Target group | SMall devices to <br> large machines | Powerful machines | Small devices to <br> large machines | Small Devices|
+| USP | MXProtocol | Tangle | Data market | LongFi |
+| Totoal Supply | 2,642,132,373 MXC | 2,779,530,283 MIOTA | 987,154,514 DATA | Unlimited |
+
+### IOT Protocols
+| Technology | LPWAN | 3G/4G/5G NB-IoT | Wi-Fi |
+| - | - | - | - |
+| Network topology | Decrentralised star network | Centralized star network | Decentralised star network |
+| Target group | All the industries | All the industries | End consumers |
+| Maximum range | 40km | 10km | 200m |
+| Single cell capacity | more than 60k | around 10k | less than 200 |
+| Batery life on AAA | 5 years | 6 months | 3 months |
+| Licensend operation | No | Yes | No |
+| GPS-free localisation | Yes | Yes | No |
 
 ## MXC is listed on a few exchanges
 Check them out on one of these sites:
-
-<a href="https://www.coingecko.com/en/coins/mxc#markets">coingecko</a><br>
-<a href="https://coinmarketcap.com/currencies/mxc/markets/">coinmarketcap</a>
+<br>[coingecko](https://www.coingecko.com/en/coins/mxc#markets)
+<br>[coinmarketcap](https://coinmarketcap.com/currencies/mxc/markets/)
 
 
 ## MXC can be 'mined' using the M2 Pro miner
-<a href="https://www.youtube.com/watch?v=2nOUdLNJVtU&t">How to install the M2 Pro in 4 minutes by Matchx</a><br>
+[![How to install the M2 Pro in 4 minutes by Matchx](https://img.youtube.com/vi/2nOUdLNJVtU/0.jpg)](https://www.youtube.com/watch?v=2nOUdLNJVtU)
+<br>press to open youtube
+
+## How do I boost my earnings with the M2 Pro?
+
 
 ## Download the DataDash app to get started
 📱 https://www.mxc.org/mxcdatadash
@@ -60,29 +79,4 @@ Mining is easy! This diagram should describe it as simple as possible:
 ![MXC_slide](../../Assets/Whitepaper-E-2021-min\Whitepaper-E-2021-min-03.jpg)
 
 
-
-## M2 Pro User Guide
-
-This is the M2 Pro's user guide, it contains all info you need about the hardware!
-
-![instructions](../../Assets/Instructions/MatchX-M2-Pro-User-Guide-01.jpg)
-![instructions](../../Assets/Instructions/MatchX-M2-Pro-User-Guide-02.jpg)
-![instructions](../../Assets/Instructions/MatchX-M2-Pro-User-Guide-03.jpg)
-![instructions](../../Assets/Instructions/MatchX-M2-Pro-User-Guide-04.jpg)
-![instructions](../../Assets/Instructions/MatchX-M2-Pro-User-Guide-05.jpg)
-![instructions](../../Assets/Instructions/MatchX-M2-Pro-User-Guide-06.jpg)
-![instructions](../../Assets/Instructions/MatchX-M2-Pro-User-Guide-07.jpg)
-![instructions](../../Assets/Instructions/MatchX-M2-Pro-User-Guide-08.jpg)
-![instructions](../../Assets/Instructions/MatchX-M2-Pro-User-Guide-09.jpg)
-![instructions](../../Assets/Instructions/MatchX-M2-Pro-User-Guide-10.jpg)
-![instructions](../../Assets/Instructions/MatchX-M2-Pro-User-Guide-11.jpg)
-![instructions](../../Assets/Instructions/MatchX-M2-Pro-User-Guide-12.jpg)
-![instructions](../../Assets/Instructions/MatchX-M2-Pro-User-Guide-13.jpg)
-![instructions](../../Assets/Instructions/MatchX-M2-Pro-User-Guide-14.jpg)
-![instructions](../../Assets/Instructions/MatchX-M2-Pro-User-Guide-15.jpg)
-![instructions](../../Assets/Instructions/MatchX-M2-Pro-User-Guide-16.jpg)
-![instructions](../../Assets/Instructions/MatchX-M2-Pro-User-Guide-17.jpg)
-![instructions](../../Assets/Instructions/MatchX-M2-Pro-User-Guide-18.jpg)
-![instructions](../../Assets/Instructions/MatchX-M2-Pro-User-Guide-19.jpg)
-![instructions](../../Assets/Instructions/MatchX-M2-Pro-User-Guide-20.jpg)
 
