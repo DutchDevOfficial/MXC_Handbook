@@ -4,13 +4,10 @@ Hello there! Welcome to the MXC handbook.
 This will guide you thru all steps, questions and answers you need to get started!
 
 ## What is MXC?
-
-MXC is an ERC20 utility token used for device transactions conducted through the MXC Supernode network. MXC adds value by giving the MXC community a chance to share in Supernode profits through staking.
+MXC is an **ERC20 utility token** used for device transactions conducted through the MXC Supernode network. MXC adds value by giving the MXC community a chance to share in Supernode profits through staking.
 
 This is a great video from MXC explaining the protocol: 
-<a href="https://www.youtube.com/watch?v=26mYsNw32YM">MXProtocol Explained</a><br>
-
-
+[MXProtocol Explained](https://www.youtube.com/watch?v=26mYsNw32YM)
 
 ## Why MXC Works
 This table shows the difference between the different iot projects.
@@ -40,15 +37,12 @@ Probably the best way to get in contact with the community is using <a href="htt
 Need technical support from the team, you should checkout <a href="https://discord.com/invite/4vrJyhXs">the Discord server</a>
 
 Want to stay up-to-date? 
-<a href="https://twitter.com/MXCfoundation">Twitter</a>
-<a href="https://medium.com/mxc">Medium</a>
+[Twitter](https://twitter.com/MXCfoundation)
+[Medium](https://medium.com/mxc)
 
 ## Start mining
-
 Mining is easy! This diagram should describe it as simple as possible:
 ![MXC](../../Assets/Made/MXC_earningv2.png)
-
-
 
 ## Where does the money go?
 ![MXC_slide](../../Assets/Whitepaper-E-2021-min\Whitepaper-E-2021-min-07.jpg)

@@ -1,6 +1,6 @@
 # The guide to use the golden coin by Kirill: 
 
-**Step 1:** Open your internet browser and go to  <a href="regcoin.mxc.org">regcoin.mxc.org</a>
+**Step 1:** Open your internet browser and go to [regcoin.mxc.org](regcoin.mxc.org)
 
 **Step 2:** Enter your name and your email address. Complete the Captcha and click Submit
 
