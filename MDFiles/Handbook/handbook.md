@@ -17,7 +17,7 @@ This table shows the difference between the different iot projects.
 | Tx Speed | within 5s | minutes to hours | minutees to hours | within 5s |
 | Inter-chain data | Yes | No | No | No |
 | Anti-collision | Yes | No | No | No |
-| Target group | SMall devices to <br> large machines | Powerful machines | Small devices to <br> large machines | Small Devices|
+| Target group | Small devices to <br> large machines | Powerful machines | Small devices to <br> large machines | Small Devices|
 | USP | MXProtocol | Tangle | Data market | LongFi |
 | Totoal Supply | 2,642,132,373 MXC | 2,779,530,283 MIOTA | 987,154,514 DATA | Unlimited |
 
@@ -43,7 +43,7 @@ Check them out on one of these sites:
 <br>press to open youtube
 
 ## How do I boost my earnings with the M2 Pro?
-
+Check [this](https://medium.com/mxc/insider-report-how-to-improve-your-m2-pro-mining-earnings-whats-next-4569fc931ac4) article by Simon
 
 ## Download the DataDash app to get started
 📱 https://www.mxc.org/mxcdatadash

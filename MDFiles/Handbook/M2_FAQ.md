@@ -75,7 +75,7 @@ Built-in hardware secure elements, xp hardware identification & security
 <br><a href="https://mxcfoundation.medium.com/worlds-most-popular-iot-miner-m2-pro-5f3d56d87a16">source </a>
 
 ## Do you need data transfer on the m2 pro to mine mxc?  
-M2 Pro runs on **PoP (Proof Of Paricipation)** which includes data transfers as a factor which will be affecting your mining rewards. Though, you sill will be mining tokens for just participating in the decentralized LPWAN network. Earning based on data packets will be on top of base income. 
+M2 Pro runs on **PoP (Proof Of Paricipation)** which includes data transfers as a factor which will be affecting your mining rewards. Though, you still will be mining tokens for just participating in the decentralized LPWAN network. Earning based on data packets will be on top of base income. 
 <br><i>Kirill</i>
 
 ## How long will the m2 pro mine for?
@@ -84,7 +84,7 @@ In regards to the M2 Pro miner and the material and product itself, we expect ou
 <br><a href="https://mxcfoundation.medium.com/worlds-most-popular-iot-miner-m2-pro-5f3d56d87a16">source </a>
 
 ## Where can i see this global data network?
-You can view your, and many other M2 Pro on <a href="MXCMapper.com">MXCMapper</a> this is a website where you can see most of the M2 Pro that are connected to Data Dash and from whom we receive a “heartbeat”. Miners who do not demonstrate a heartbeat will not show on this map.
+You can view your, and many other M2 Pro on <a href="https://mxcmapper.com/">MXCMapper</a> this is a website where you can see most of the M2 Pro that are connected to Data Dash and from whom we receive a “heartbeat”. Miners who do not demonstrate a heartbeat will not show on this map.
 
 **M2 Pro Miners are highlighted in BLUE**, for other LPWAN / LoRA devices, they are in GREY. We show both of these elements for a key reason, yes, MXC is a company that promotes the $MXC Token and the M2 Pro Miner, but more importantly we are here to promote “LPWAN” and “LoRa Technologies” as a basis for our existence. Without this decentralized network, there is no Data Network, so the MXCMapper site allows and promotes new users to this technology to see the length and breadth of this groundbreaking, global data network. We believe in LPWAN (Low Power Wide Area Network) and wherever we can, we will promote this technology.
 
