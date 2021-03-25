@@ -6,17 +6,3 @@
 
 ## How to install the M2 Pro?
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/2nOUdLNJVtU/0.jpg)](https://www.youtube.com/watch?v=2nOUdLNJVtU)
-
-
-<div id="msg">Vue is {{ msg }}</div>
-
-
-
-
-<script>
-  new Vue({
-    el: '#msg',
-    data: { msg: 'Working' }
-  })
-</script>
-
