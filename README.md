@@ -12,17 +12,19 @@
     - [Gold Coins](MDFiles/Handbook/goldcoins.md)
     - [Videos](MDFiles/Handbook/videos.md)
     - [Promo code](MDFiles/Handbook/promocodes.md)
-
 - AMA
     - [AMA Procedure](MDFiles/AMA/AMA_Procedure.md)
     - [Top 5 take-aways](MDFiles/AMA/AMA_top5.md)
     - [AMA's](MDFiles/AMA/AMA.md)
-
 - Contact
     - [Help to build](MDFiles/Contact/contact.md)
     - [Telegram](https://t.me/Dutchdev)
 
+# Who am I?
+I am **a passionate MXC supporter** who strongly believes in the vision of MXC and the global rollout of the Data Network. 
 
+<i>Disclamer:
+This guide is made to the best of my ability. If you have any further more detailed questions feel fre ask them in the MXC [supporters group](https://t.me/mxcfoundation) on their socials or [MXC](https://www.mxc.org/) themselves. </i>
 
 # What is MXC?
 <!-- <div class="coinmarketcap-currency-widget" data-currencyid="3628" data-base="EUR" data-secondary="USD" data-ticker="true" data-rank="true" data-marketcap="true" data-volume="true" data-statsticker="true" data-stats="USD"></div> -->
@@ -31,6 +33,11 @@
 <coingecko-coin-ticker-widget  coin-id="mxc" currency="usd" locale="en"></coingecko-coin-ticker-widget>
 
 <script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script>
-MXC is a **Utility Token**, also commonly referred to as an **Internet of Things (IoT) Token**. MXC is building a global data network to allow wireless devices to connect and communicate more efficiently and over longer distances than currently used WiFi and Bluetooth methods. The MXProtocol and the interoperable Para-Chain network are designed **to help cities, companies, and individuals profit/benefit from building an LPWAN network** and using it to both transmit and manage data. Via MXC contour payments, MXC developers have devised an integrated IoT payment solution to allow automated machine to machine payments and IoT transactions to occur within a matter of seconds.
-<br><a href="https://coinmarketcap.com/currencies/mxc/">source </a>
+
+MXC is also a **global data network**, a network that is quickly spreading across the globe. This global data network is being used to deliver data packets **more easily and faster than ever before**. Using LPWAN technology the MXC Foundation is promoting this global data network via the M2 Pro Miner. 
+
+**MXC is a data token, a token that is covering the planet!**
+
+
+This MXC data token is also commonly referred to as an **Internet of Things (IoT) Token** designed **to help cities, companies, and individuals profit/benefit from building an LPWAN network**.
 

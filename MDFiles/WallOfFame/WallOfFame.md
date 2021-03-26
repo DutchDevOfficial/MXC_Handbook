@@ -1,7 +1,8 @@
 # Wall of fame
 
 ## Top Feedback
-* [Wille Willson](https://t.me/Wille_Willson)
+* [Wille_Willson](https://t.me/Wille_Willson)
+* [Keith | MXC.org](https://t.me/CryptoKeith)
 
 ## Top Contributers
 
