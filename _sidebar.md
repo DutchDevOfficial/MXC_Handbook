@@ -11,8 +11,9 @@
     - [Top 5 take-aways](MDFiles/AMA/AMA_top5.md)
     - [AMA's](MDFiles/AMA/AMA.md)
 
-- Contact
+- Extra
     - [Help to build](MDFiles/Contact/contact.md)
-    - [Telegram](https://t.me/Dutchdev)
+    - [Fix cache](MDFiles/Contact/cache.md)
+    - [Contact](https://t.me/Dutchdev)
 
 

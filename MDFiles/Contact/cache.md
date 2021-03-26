@@ -1,10 +1,22 @@
 # Fix cache
-To be sure you are looking at the lastest updated version, be sure to clear your browser cache.
-Your browser will store 
+Once you have cleared the browser history you can load the website to see the latest update.
 
+### Desktops
 - Windows and Linux browsers: **CTRL + F5**
 - Apple Safari: **SHIFT + Reload toolbar button**
 - Chrome and Firefox for Mac: **CMD + SHIFT + R**
+
+### Phones
+- Ipad/Iphone
+    - Go to Settings
+    - Scroll down to Safari
+    - Scroll down to “Clear History and Website Data.”
+
+- Android
+    - Open Chrome
+    - Click “Settings” from the browser menu bar
+    - Find “Privacy” from the menu.
+    - Scroll down to the bottom and click “CLEAR BROWSING DATA”
 
 ## Why do I need to do this?
 Most of the time – you never even notice browser caching happening. It runs entirely behind the scenes and usually doesn’t affect your browsing experience. But…sometimes things can go wrong.
