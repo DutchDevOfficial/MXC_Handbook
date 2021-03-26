@@ -19,9 +19,9 @@ You can buy them straight from the manufacturer:
 https://www.matchx.io/product/m2-pro-lpwan-crypto-miner/
 <br>[Promo code](MDFiles/Handbook/promocodes.md)
 
-## Does the M2 gets shipped to the US?
-**Yes**, there is even a US warehouse.
-
+## Can I setup/use the M2 Pro miner in my country?
+**Yes**, there is worldwide shipping from the EU and US warehouse.<br>
+The M2 Pro can work **everywhere**, as long as it has a stable internet connection. 
 
 ## How are earnings calculated?
 Earnings are derived via the MXProtocol Mining Algorithm, these earnings are primarily based on the following key factors:
