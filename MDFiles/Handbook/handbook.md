@@ -19,7 +19,7 @@ This table shows the difference between the different iot projects.
 | Anti-collision | Yes | No | No | No |
 | Target group | Small devices to <br> large machines | Powerful machines | Small devices to <br> large machines | Small Devices|
 | USP | MXProtocol | Tangle | Data market | LongFi |
-| Totoal Supply | 2,642,132,373 MXC | 2,779,530,283 MIOTA | 987,154,514 DATA | Unlimited |
+| Totoal Supply | 2,642,132,373 MXC | 2,779,530,283 MIOTA | 987,154,514 DATA (100% Circulating) | 223,000,000 (34% Circulating) |
 
 ### IOT Protocols
 | Technology | LPWAN | 3G/4G/5G NB-IoT | Wi-Fi |
