@@ -74,6 +74,18 @@ Built-in hardware secure elements, xp hardware identification & security
 **The all-weather outdoor miner, industrial temperature range from -40 degrees celsius (-40F) to +60 degrees celsius (+140F)**
 <br><a href="https://mxcfoundation.medium.com/worlds-most-popular-iot-miner-m2-pro-5f3d56d87a16">source </a>
 
+### M2 Pro vs Bitmain "Antminer S19 Pro"
+| stat | Bitmain S19 Pro | M2 Pro | 
+| ---- | --------------- | ------ |
+| Cost | €3500 | €2500 |
+| Power Consumption | 3250 Watt | 5 Watt |
+| Noise | 75 dB | Silent |
+| Operating costs (monthly) | ~€600 | Virtually "0" |
+| Set Up | Requires Tech Skills | Plug'n Play |
+| Outdoor usage | No | Weatherproof, IP66 |
+| Interface | Ethernet | Ethernet/Wi-Fi/'LTE' |
+
+
 ## Do you need data transfer on the m2 pro to mine mxc?  
 M2 Pro runs on **PoP (Proof Of Paricipation)** which includes data transfers as a factor which will be affecting your mining rewards. Though, you still will be mining tokens for just participating in the decentralized LPWAN network. Earning based on data packets will be on top of base income. 
 <br><i>Kirill</i>
