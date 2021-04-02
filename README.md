@@ -10,6 +10,7 @@
     - [Manual](MDFiles/Handbook/manual.md)
     - [Telegram FAQ](MDFiles/Handbook/M2_FAQ.md)
     - [DHX](MDFiles/Handbook/DHX.md)
+    - [REP](MDfiles/Handbook/Rep.md)
     - [Gold Coins](MDFiles/Handbook/goldcoins.md)
     - [Videos](MDFiles/Handbook/videos.md)
     - [Promo code](MDFiles/Handbook/promocodes.md)
