@@ -1,8 +1,9 @@
 # Telegram most asked
 ## What coins does the M2 miner mine?
 - **MXC** 
+- [DHX](MDFiles/Handbook/DHX.md)
 - **BTC** (only testnet for now)
-=> mining is **simutalious** 
+<br>=> mining is **simutalious** 
 
 ## How are the M2 earnings?
 The M2 mines for **10-14$/day in MXC**. This has been confirmed by various community members
