@@ -8,7 +8,8 @@
 - Handbook   
     - [Handbook](MDFiles/Handbook/handbook.md)   
     - [Manual](MDFiles/Handbook/manual.md)
-    - [FAQ Telegram](MDFiles/Handbook/M2_FAQ.md)
+    - [Telegram FAQ](MDFiles/Handbook/M2_FAQ.md)
+    - [DHX](MDFiles/Handbook/DHX.md)
     - [Gold Coins](MDFiles/Handbook/goldcoins.md)
     - [Videos](MDFiles/Handbook/videos.md)
     - [Promo code](MDFiles/Handbook/promocodes.md)
@@ -16,9 +17,10 @@
     - [AMA Procedure](MDFiles/AMA/AMA_Procedure.md)
     - [Top 5 take-aways](MDFiles/AMA/AMA_top5.md)
     - [AMA's](MDFiles/AMA/AMA.md)
-- Contact
+- Extra
     - [Help to build](MDFiles/Contact/contact.md)
-    - [Telegram](https://t.me/Dutchdev)
+    - [Fix cache](MDFiles/Contact/cache.md)
+    - [Contact](https://t.me/Dutchdev)
 
 # Who am I?
 I am **a passionate MXC supporter** who strongly believes in the vision of MXC and the global rollout of the Data Network. 

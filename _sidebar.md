@@ -1,7 +1,8 @@
 - Handbook   
     - [Handbook](MDFiles/Handbook/handbook.md)   
     - [Manual](MDFiles/Handbook/manual.md)
-    - [FAQ Telegram](MDFiles/Handbook/M2_FAQ.md)
+    - [Telegram FAQ](MDFiles/Handbook/M2_FAQ.md)
+    - [DHX](MDFiles/Handbook/DHX.md)
     - [Gold Coins](MDFiles/Handbook/goldcoins.md)
     - [Videos](MDFiles/Handbook/videos.md)
     - [Promo code](MDFiles/Handbook/promocodes.md)
