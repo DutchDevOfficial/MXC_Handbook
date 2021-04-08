@@ -32,6 +32,6 @@ Made by [Bobby](https://t.me/BobbyDigits) and free to use:
 <img src="../Assets/Gifs/Bobby/29.gif" alt="Trump to the moon"  width=250/>
 <img src="../Assets/Gifs/Bobby/30.gif" alt="MXC Fam be like"  width=250/>
 
-Made by [Bobby](https://t.me/Paper_Chasin) and free to use: 
+Made by [Allen](https://t.me/Paper_Chasin) and free to use: 
 
 <img src="../Assets/Gifs/Allen/1.gif" alt="When Binance? When Moon? When Lambo?"  width=250/>
