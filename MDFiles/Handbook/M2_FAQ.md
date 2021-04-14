@@ -118,6 +118,13 @@ Of course those are ideal conditions, and the free path loss means line of sight
 
 # How is it possible to mine BTC with the M2 Pro?
 In short:
+Das Kaiser Projekt “DKP” has finished its first testnet, average tester mined $38.60 USD worth of Bitcoin.
+This was possible via break-through low-power mining, fueled by the MXProtocol.
+The average power consumption to mine this quantity of BTC was determined to be 60 watts per miner over the course of 30 days, resulting in a calculated average of close to 2 watts per day.
+
+the MXC development team has successfully proven that low-power BTC mining is indeed possible when the Proof of Participation model is leveraged through a bridge, in which the Supernodes carry the computation efforts rather than the miners themselves directly.
+
 ![btc_mining](https://miro.medium.com/max/875/1*skAZOgOVkKPQ9Nynmjpv8A.jpeg)
 
+Read all about it in this article by Simon!
 https://medium.com/mxc/dkp-testnet-analysis-report-data-valuation-discrepancy-insight-596218b9a385
