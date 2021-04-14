@@ -106,3 +106,18 @@ You will notice that the M2 Pro listed on the MXCMapper.com aren’t showing an 
 <br><a href="https://mxcfoundation.medium.com/worlds-most-popular-iot-miner-m2-pro-5f3d56d87a16">source </a>
 
 
+# How does this miner reach 1200+km with those 3 antennas ? They look kind of small.
+As you would have heard before, size doesn’t matter!
+
+The M2 Pro LoRa modulation makes it possible to receive really weak signals, which gives much higher sensitivities
+the sensitivities down to -140dBm are possible, so with +27dBm of RF power and 3dBi antennas gain we get a link budget of 173dB which is a lot!
+Free path loss at 900MHz over 40km is 123dB so there is still room. https://www.pasternack.com/t-calculator-fspl.aspx
+
+Of course those are ideal conditions, and the free path loss means line of sight clear path.
+[source](https://t.me/mxcfoundation/148659)
+
+# How is it possible to mine BTC with the M2 Pro?
+In short:
+![btc_mining](https://miro.medium.com/max/875/1*skAZOgOVkKPQ9Nynmjpv8A.jpeg)
+
+https://medium.com/mxc/dkp-testnet-analysis-report-data-valuation-discrepancy-insight-596218b9a385
