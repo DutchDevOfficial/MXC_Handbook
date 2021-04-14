@@ -128,3 +128,5 @@ the MXC development team has successfully proven that low-power BTC mining is in
 
 Read all about it in this article by Simon!
 https://medium.com/mxc/dkp-testnet-analysis-report-data-valuation-discrepancy-insight-596218b9a385
+
+
