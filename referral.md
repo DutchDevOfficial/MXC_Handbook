@@ -5,6 +5,7 @@ If you find one that you link, just click the title
 
 ## [Brave browser](https://brave.com/)
 [info video]( https://www.youtube.com/watch?v=fWzjg0ddQo0)<br>
+Three times faster than Chrome. Better privacy by default than Firefox. Uses 35% less battery on mobile.
 
 **in short**
 - Enable Brave Rewards
@@ -20,6 +21,7 @@ make your first trade and get €15 with this link.
 *KYC NEEDED*
 
 ## [Bitvavo](https://bitvavo.com/?a=EC4A8D4CA8)
+Buy, sell, and store more than 50 digital assets at one of Europe's leading cryptocurrency exchanges.
 No trading fees on your first €1000 trades! + Very easy withdrawal process in Europe.
 
 *KYC NEEDED*
@@ -39,8 +41,7 @@ Core business:
 *KYC NEEDED*
 
 ## [bitbrokertrade](https://www.bitbroker.trade/?r=39510230961721)
-Bitvavo trading bot 
-
+Bitvavo, BL3P, Binance, Bitstamp trading bot 
 
 # EXTRA - free crypto
 ## [publish0x](https://www.publish0x.com?a=Jxbo2Y0Xag)
