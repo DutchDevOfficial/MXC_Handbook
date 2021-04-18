@@ -39,8 +39,10 @@ Check them out on one of these sites:
 
 
 ## MXC can be 'mined' using the M2 Pro miner
-[![How to install the M2 Pro in 4 minutes by Matchx](https://img.youtube.com/vi/2nOUdLNJVtU/0.jpg)](https://www.youtube.com/watch?v=2nOUdLNJVtU)
-<br>press to open youtube
+[Click here to buy one](/MDFiles/Handbook/promocodes)
+
+Check out this video to find out how easy it is to setup!
+<iframe height="350" src="https://www.youtube.com/embed/2nOUdLNJVtU" title="How to install the M2 Pro in 4 minutes by Matchx" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## How do I boost my earnings with the M2 Pro?
 Check [this](https://medium.com/mxc/insider-report-how-to-improve-your-m2-pro-mining-earnings-whats-next-4569fc931ac4) article by Simon
