@@ -40,7 +40,9 @@ This guide is made to the best of my ability. If you have any further more detai
 <script src="https://widgets.coingecko.com/coingecko-coin-ticker-widget.js"></script>
 <coingecko-coin-ticker-widget  coin-id="mxc" currency="usd" locale="en"></coingecko-coin-ticker-widget>
 
-<script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script>
+<!-- <script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script> -->
+
+<iframe height="350" src="https://www.youtube.com/embed/7TYA6awG0j4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 MXC is also a **global data network**, a network that is quickly spreading across the globe. This global data network is being used to deliver data packets **more easily and faster than ever before**. Using LPWAN technology the MXC Foundation is promoting this global data network via the M2 Pro Miner. 
 
