@@ -7,3 +7,6 @@ Everyone who helped this project reach its current state will be thanked in this
 * [Keith | MXC.org](https://t.me/CryptoKeith)
 * [Wille_Willson](https://t.me/Wille_Willson)
 * [WM](https://t.me/wiseoldman)
+
+**Contribution**
+* [Brian Allan](https://t.me/BrinerMiner) (http://www.mxcfaq.com)

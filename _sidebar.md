@@ -15,6 +15,7 @@
 
 - Community
     - [GIFS](MDFiles/WallOfFame/gifs.md)
+    - [M2 Pro stats](MDFiles/WallOfFame/m2prostats.md)
 
 - Extra
     - [Help to build](MDFiles/Contact/contact.md)
