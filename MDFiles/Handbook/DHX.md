@@ -8,6 +8,12 @@ DHX or DataHighway is a DAO, a decentralised autonomous organisation, the promot
 ## How can I mine DHX?
 You need to **download the Data Dash App**. Then you can look for the DHX icon in the DataDash App. Add DHX and get started. **You can then stake your MXC in order to earn DHX.**
 
+*UPDATE : From now you can also bond DHX to mine DHX!*
+<!-- ![DHX tutorial](../../Assets/DHX/tutorial.jpg) -->
+
+<img src="../../Assets/DHX/tutorial.jpg" alt="DHX tutorial" width= 350 length=500>
+
+
 ### How do I stake?
 1. In DataDash click on “wallet” 
 2. Click DHX 
