@@ -24,6 +24,25 @@ You need to **download the Data Dash App**. Then you can look for the DHX icon i
 7. Select Lock Amount 
 8. Select a council from the list (completely your choice) Proceed and you’re done.
 
+
+## How do I maximize my return?
+The most DHX you can mine per day with 35 DHX bonded (for example), is 0.5 DHX. The rule is:  Divide your bonded DHX by 70. That’s the max per day of DHX that you can mine. (Currently, 26th April 2021)
+
+HOWEVER, to reach that level, you need around 9,000 “mPower” per DHX bonded.
+The way to calculate mPower generally is:
+- With NO miner, 1 MXC = 1 mPower.
+- WITH a miner, 1 MXC = 2 mPower.
+
+So with 35 bonded DHX, and no miner, you would need 35*9,000 = 315,000 mPower. (NOTE: You can increase mPower also by choosing longer MXC “locking” periods, e.g. 12 or 24 months.)
+
+
+### Some additional notes on DHX mining:
+- the above “With a miner” mPower rule only works up to 1 million mPower. To keep the 1 MXC = 2 mPower valid above 1 million mPower, you will need an additional miner. That’s also true at 2M mPower, 3M mPower, etc, with an additional miner needed at each level.
+- the 1 MXC = 1 or 2 mPower above can also be improved by locking your MXC for longer periods.
+- the above 9,000 mPower per DHX is currently growing by a couple or few hundred each day, as more and more people are mining DHX. 
+- there is a combined maximum of 5,000 DHX that can be mined by everyone each day.
+
+
 ## Does my M2 Pro mine DHX?
 An added incentive for people who have the DataDash App and have already purchased the M2 Pro Miner is that they can use this **M2 Pro as a mining booster** — 1mil MXC and 1 M2 pro is a 2 m-Power boost — next m-power boost level is 2mil MXC and 2 M2 Pro = 4 m-power boost. You can purchase an M2 Pro at MatchX.
 
