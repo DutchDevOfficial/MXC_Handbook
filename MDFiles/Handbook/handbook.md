@@ -33,6 +33,11 @@ This table shows the difference between the different iot projects.
 | GPS-free localisation | Yes | Yes | No |
 
 ## MXC is listed on a few exchanges
+
+[Okex](https://www.okex.com/join/3966016) *Low Fees | High Liquidity*
+[Hubobi](https://www.huobi.com/en-us/topic/welcome-bonus/?invite_code=jgy68) *Earn up to $170 welcome bonus!*
+
+
 Check them out on one of these sites:
 <br>[coingecko](https://www.coingecko.com/en/coins/mxc#markets)
 <br>[coinmarketcap](https://coinmarketcap.com/currencies/mxc/markets/)
