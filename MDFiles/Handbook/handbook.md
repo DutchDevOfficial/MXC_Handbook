@@ -3,6 +3,8 @@
 Hello there! Welcome to the MXC handbook.
 This will guide you thru all steps, questions and answers you need to get started!
 
+Do you have specific quesions? Use the search bar or check out [Telegrams FAQ](MDFiles/Handbook/M2_FAQ.md)
+
 ## What is MXC?
 MXC is an **ERC20 utility token** used for device transactions conducted through the MXC Supernode network. MXC adds value by giving the MXC community a chance to share in Supernode profits through staking.
 
