@@ -161,3 +161,31 @@ Stay tuned in for some sneak peeks 📸🧠
 Ever since around 3 years ago when MXC started, we started as a parachain. So I don’t think migration to the parachain platform is the right word. We were always a parachain, before the parachain hype started. MXC is one of the most established parachain, because we had 3 years to build this. So once Polkadot is more stable, the integration of MXC parachain into Polkadot will be quite seamless. 
 The advantage of this would mainly be on the expansion of the MXC ecosystem, and therefore more widespread usage of MXProtocol, meaning more demand for $MXC 🔥🚀
 <br><i>Siwon</i>
+
+
+## [LIVE] AMA: Everything about MXC and DHX (with Siwon Kim)
+
+<iframe height="350" src="https://www.youtube.com/embed/OXa_k-3e-sk" title="[LIVE] AMA: Everything about MXC and DHX (with Siwon Kim)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### RECAP by Keith 
+
+1️⃣ Das Kaiser Projekt II $BTC mining 
+Re-Launching in MAY
+
+2️⃣ MXC & Uniswap building DEX liquidity earnings possibility of earning up to  200% to 250% .... more ways to earn from MXC
+
+3️⃣ MXC miner long term business model
+MXC working to be bear market proof!
+The business plan is to have miners first earn tokens, as their earnings reduce over time, MXC miners / supporters will have increased ways to participate and EARN even more
+Eg: 
+👉staking to earn more MXC
+
+👉Bonding to earn $DHX
+
+👉Staking on DEX liquidity earnings up to 250% on Uniswap
+
+MXC mining will ensure long-tail earnings for MXC hodlers 
+
+
+
+4️⃣ MXC working with electric car company on LPWAN Data transmission tests
