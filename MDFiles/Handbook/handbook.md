@@ -6,8 +6,10 @@ This will guide you thru all steps, questions and answers you need to get starte
 ## What is MXC?
 MXC is an **ERC20 utility token** used for device transactions conducted through the MXC Supernode network. MXC adds value by giving the MXC community a chance to share in Supernode profits through staking.
 
-This is a great video from MXC explaining the protocol: 
-[MXProtocol Explained](https://www.youtube.com/watch?v=26mYsNw32YM)
+<iframe height="350" src="https://www.youtube.com/embed/7TYA6awG0j4" title="MXC coin explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## What is the MXC Protocol?
+<iframe height="350" src="https://www.youtube.com/embed/26mYsNw32YM" title="MXC Protocol Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Why MXC Works
 This table shows the difference between the different iot projects.
@@ -35,8 +37,7 @@ This table shows the difference between the different iot projects.
 ## MXC is listed on a few exchanges
 
 [Okex](https://www.okex.com/join/3966016) *Low Fees | High Liquidity*
-[Hubobi](https://www.huobi.com/en-us/topic/welcome-bonus/?invite_code=jgy68) *Earn up to $170 welcome bonus!*
-
+<br>[Hubobi](https://www.huobi.com/en-us/topic/welcome-bonus/?invite_code=jgy68) *Earn up to $170 welcome bonus!*
 
 Check them out on one of these sites:
 <br>[coingecko](https://www.coingecko.com/en/coins/mxc#markets)
@@ -44,7 +45,7 @@ Check them out on one of these sites:
 
 
 ## MXC can be 'mined' using the M2 Pro miner
-[Click here to buy one](/MDFiles/Handbook/promocodes)
+[BUY HERE](/MDFiles/Handbook/promocodes)
 
 Check out this video to find out how easy it is to setup!
 <iframe height="350" src="https://www.youtube.com/embed/2nOUdLNJVtU" title="How to install the M2 Pro in 4 minutes by Matchx" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
