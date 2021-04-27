@@ -33,6 +33,10 @@ The way to calculate mPower generally is:
 
 So with 35 bonded DHX, and no miner, you would need 35*9,000 = 315,000 mPower. (NOTE: You can increase mPower also by choosing longer MXC “locking” periods, e.g. 12 or 24 months.)
 
+### Calculator made by @Midir21
+Version 1.0 Calculators and Data for DHX Mining:<br>
+https://docs.google.com/spreadsheets/d/1NLkSf6T23dAS77gJ3_b-veXvlVQ1Z5Z3kg-AcxI43Zk/edit?usp=sharing
+
 ## Some additional notes on DHX mining:
 - The above “With a miner” mPower rule only works up to 1 million mPower. To keep the 1 MXC = 2 mPower valid above 1 million mPower, you will need an additional miner. That’s also true at 2M mPower, 3M mPower, etc, with an additional miner needed at each level.
 - The 1 MXC = 1 or 2 mPower above can also be improved by locking your MXC for longer periods.
