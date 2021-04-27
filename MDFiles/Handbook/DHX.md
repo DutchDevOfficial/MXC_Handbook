@@ -2,7 +2,7 @@
 Previous announcement:
 *DHX has given MXC holders the right to premine DHX. This will be performed on the DataDash Crypto App, where anyone can stake, mine and earn tokens.*
 
-DHX is officially life now and can be traded on biki.cc!
+DHX is officially life now and can be traded on [Biki](https://www.biki.cc/en_US/register?inviteCode=WGTHEWT)!
 
 ## What is DHX?
 DHX or DataHighway is a DAO, **a decentralised autonomous organisation**, the promotion or management does not have a dedicated team of people. Anyone who is qualified and interested in DHX can take part in it. It regulates itself with its own senate and own rules. There is a voting process for example to increase spending or to list on an exchange. Similarly to politics, one person has a vote in DHX. Blockchain and DataHighway gives people the vote and that’s through the DHX token.
