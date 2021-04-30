@@ -23,7 +23,7 @@ This table shows the difference between the different iot projects.
 | Anti-collision | Yes | No | No | No |
 | Target group | Small devices to <br> large machines | Powerful machines | Small devices to <br> large machines | Small Devices|
 | USP | MXProtocol | Tangle | Data market | LongFi |
-| Totoal Supply | 2,642,132,373 MXC | 2,779,530,283 MIOTA | 987,154,514 DATA (100% Circulating) | 223,000,000 (34% Circulating) |
+| Total Supply | 2,642,132,373 MXC | 2,779,530,283 MIOTA | 987,154,514 DATA (100% Circulating) | 223,000,000 (34% Circulating) |
 
 ### IOT Protocols
 | Technology | LPWAN | 3G/4G/5G NB-IoT | Wi-Fi |
@@ -40,7 +40,7 @@ This table shows the difference between the different iot projects.
 
 [Okex](https://www.okex.com/join/3966016) *Low Fees | High Liquidity*
 <br>[Hubobi](https://www.huobi.com/en-us/topic/welcome-bonus/?invite_code=jgy68) *Earn up to $170 welcome bonus!*
-<br>[Buy DHX on biki](https://www.biki.cc/en_US/register?inviteCode=WGTHEWT)
+<br>[Biki](https://www.biki.cc/en_US/register?inviteCode=WGTHEWT) *Buy **DHX** and MXC*
 
 Check them out on one of these sites:
 <br>[coingecko](https://www.coingecko.com/en/coins/mxc#markets)
