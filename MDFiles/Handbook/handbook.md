@@ -38,9 +38,9 @@ This table shows the difference between the different iot projects.
 
 ## MXC is listed on a few exchanges
 
-[Okex](https://www.okex.com/join/3966016) *Low Fees | High Liquidity*
-<br>[Hubobi](https://www.huobi.com/en-us/topic/welcome-bonus/?invite_code=jgy68) *Earn up to $170 welcome bonus!*
-<br>[Biki](https://www.biki.cc/en_US/register?inviteCode=WGTHEWT) *Buy **DHX** and MXC*
+[Okex](https://www.okex.com/join/3966016) *Low Fees | High Liquidity | invite: 3966016*
+<br>[huobi](https://www.huobi.com/en-us/topic/welcome-bonus/?invite_code=jgy68) *Earn up to $170 welcome bonus! | invite: jgy68*
+<br>[Biki](https://www.biki.cc/en_US/register?inviteCode=WGTHEWT) *Buy **DHX** and MXC | invite: WGTHEWT*
 
 Check them out on one of these sites:
 <br>[coingecko](https://www.coingecko.com/en/coins/mxc#markets)
