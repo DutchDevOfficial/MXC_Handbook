@@ -21,7 +21,8 @@ You need to **download the Data Dash App**. Then you can look for the DHX icon i
 5. Read through (or skip) 
 6. Select lock (Eg 12 months) 
 7. Select Lock Amount 
-8. Select a council from the list (completely your choice) Proceed and you’re done.
+8. Select a council from the list (completely your choice, consider taking a look at [OfficialMinersUnion](https://minersunion.org)) 
+9. Proceed and you’re done.
 
 ## How do I calculate my return?
 *The most DHX you can mine per day with 35 DHX bonded (for example), is 0.5 DHX. The rule is:  Divide your bonded DHX by 70. That’s the max per day of DHX that you can mine. (Currently, 26th April 2021)*
