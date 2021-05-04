@@ -52,5 +52,5 @@ MXC is een **globaal data netwerk**, een netwerk dat momenteel ernorm aan het ui
 
 **MXC is een data token, een token die de hele wereld moet dekken!**
 
-De MXC data token wordt ook vaak de **Internet of Things (IoT) Token** genoemd en is ontwerpen om s**teden, bedrijven en inidividuen winst en voodelen te geven voor het uitbouwen van het LPWAN netwerk**.
+De MXC data token wordt ook vaak de **Internet of Things (IoT) Token** genoemd en is ontwerpen om **steden, bedrijven en inidividuen winst en voodelen te geven voor het uitbouwen van het LPWAN netwerk**.
 
