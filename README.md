@@ -19,7 +19,6 @@
 
 - AMA
     - [AMA Procedure](MDFiles/AMA/AMA_Procedure.md)
-    - [Top 5 take-aways](MDFiles/AMA/AMA_top5.md)
     - [AMA's](MDFiles/AMA/AMA.md)
 
 - Community
