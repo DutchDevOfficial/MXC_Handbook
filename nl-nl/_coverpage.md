@@ -1,4 +1,4 @@
-![logo](/Assets/Logo/Logo_fit.png)
+![logo](../Assets/Logo/Logo_fit.png)
 
 # The MXC Handbook <small>V1</small>
 
@@ -8,7 +8,7 @@
 - By the community for the community
 - All in one
 
-[AMA](/MDFiles/AMA/AMA)
-[Handbook](/MDFiles/Handbook/handbook)
+[AMA](nl-nl/MDFiles/AMA/AMA)
+[Handbook](nl-nl/MDFiles/Handbook/handbook)
 
 

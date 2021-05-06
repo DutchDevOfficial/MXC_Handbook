@@ -6,7 +6,7 @@
     - [REP](MDFiles/Handbook/Rep.md)
     - [Gold Coins](MDFiles/Handbook/goldcoins.md)
     - [Videos](MDFiles/Handbook/videos.md)
-    - [Promo code](MDFiles/Handbook/promocodes.md)
+    - [Promo code](MDFiles/Handbook/promocode.md)
 
 - AMA
     - [AMA Procedure](MDFiles/AMA/AMA_Procedure.md)

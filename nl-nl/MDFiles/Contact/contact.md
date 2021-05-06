@@ -1,5 +1,5 @@
-# Do you want to help build this project?
-Send me a message on [Telegram](https://t.me/Dutchdev)
+# Wil je mee werken aan dit project?
+Stuur me een berichtje op [Telegram](https://t.me/Dutchdev)
 
 
 
