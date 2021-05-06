@@ -13,6 +13,11 @@ You need to **download the Data Dash App**. Then you can look for the DHX icon i
 *UPDATE : From now you can also bond DHX to mine DHX!*
 <img src="../../Assets/DHX/tutorial.jpg" alt="DHX tutorial" width= 350 length=500>
 
+### How does it work? 
+<img src="../../Assets/DHX/graphic.jpg" alt="DHX tutorial" width= 600 length=1000>
+
+[source](https://twitter.com/TavrnSideGaming)
+
 ### How do I lock MXC?
 1. In DataDash click on “wallet” 
 2. Click DHX 
