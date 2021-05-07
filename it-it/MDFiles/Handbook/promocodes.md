@@ -2,4 +2,4 @@
 
 [BUY HERE](https://www.matchx.io/product/m2-pro-lpwan-crypto-miner/)
 
-![MXC](../../Assets/promo/example.jpg)
+![MXC](../../../Assets/promo/example.jpg)

@@ -8,7 +8,7 @@
 - Dalla community, per la community
 - Tutto in uno
 
-[AMA](/MDFiles/AMA/AMA)
-[Prontuario](/MDFiles/Handbook/handbook)
+[AMA](it-it/MDFiles/AMA/AMA)
+[Prontuario](it-it/MDFiles/Handbook/handbook)
 
 

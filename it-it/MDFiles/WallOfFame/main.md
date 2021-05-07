@@ -10,3 +10,4 @@ Tutti coloro che hanno contribuito a far raggiungere dei nuovi livelli a questo 
 
 **Contribution**
 * [Brian Allan](https://t.me/BrinerMiner) (http://www.mxcfaq.com)
+* [Monok](https://t.me/Monok) (Traduzione italiana)

@@ -3,7 +3,7 @@
 Ehilà! Benvenuto al prontuario MXC.
 Questo prontuario ti guiderà attraverso il mondo di MXC e risponderà a tutte le due domande a riguardo!
 
-Hai delle domande specifiche per cui non hai trovato risposte qua nel prontuario? Usa la barra di ricerca, oppure controlla le [Telegrams FAQ](MDFiles/Handbook/M2_FAQ.md)
+Hai delle domande specifiche per cui non hai trovato risposte qua nel prontuario? Usa la barra di ricerca, oppure controlla le [Telegrams FAQ](it-it/MDFiles/Handbook/M2_FAQ.md)
 
 ## Cos'è MXC?
 MXC è un **utility token ERC20** utilizzato per le transazioni tra dispositivi condotte all'interno del network dell'MXC Supernode. MXC aggiunge valore dando alla community MXC una chance di condividere i profitti del Supernote attraverso lo staking.
@@ -72,27 +72,27 @@ Vuoi tenerti aggiornato su tutte le ultime notizie?
 
 ## Comincia a minare
 Minare è facile! QUesto diagramma dovrebbe descriverlo nella maniera più semplice possibile:
-![MXC](../../Assets/Made/MXC_earningv2.png)
+![MXC](../../../Assets/Made/MXC_earningv2.png)
 
 ## Dove vanno i soldi della fondazione?
-![MXC_slide](../../Assets/Whitepaper-E-2021-min\Whitepaper-E-2021-min-07.jpg)
-![MXC_slide](../../Assets/Whitepaper-E-2021-min\Whitepaper-E-2021-min-08.jpg)
+![MXC_slide](../../../Assets/Whitepaper-E-2021-min\Whitepaper-E-2021-min-07.jpg)
+![MXC_slide](../../../Assets/Whitepaper-E-2021-min\Whitepaper-E-2021-min-08.jpg)
 
 ## RoadMap
-![MXC_slide](../../Assets/Whitepaper-E-2021-min\Whitepaper-E-2021-min-09.jpg)
+![MXC_slide](../../../Assets/Whitepaper-E-2021-min\Whitepaper-E-2021-min-09.jpg)
 
 ## Il team
-![MXC_slide](../../Assets/team/team1.jpg)
-![MXC_slide](../../Assets/team/team2.jpg)
-![MXC_slide](../../Assets/team/team3.jpg)
-![MXC_slide](../../Assets/team/team4.jpg)
+![MXC_slide](../../../Assets/team/team1.jpg)
+![MXC_slide](../../../Assets/team/team2.jpg)
+![MXC_slide](../../../Assets/team/team3.jpg)
+![MXC_slide](../../../Assets/team/team4.jpg)
 
 <img src="https://d33wubrfki0l68.cloudfront.net/b91e4b393802bf8bb9a5a03a489badc8a26df04e/0194e/images/180706_factoryiot_fb-41-min.jpg" sizes="(max-width: 767px) 96vw, (max-width: 991px) 91vw, (max-width: 1919px) 900.0000610351562px, 1100px" srcset="https://d33wubrfki0l68.cloudfront.net/3ce1dd6ef7162e169725813fcd37031c62223997/faf5d/images/180706_factoryiot_fb-41-min-p-1080.jpeg 1080w, https://d33wubrfki0l68.cloudfront.net/685e5f4ce144d73c0ed380293ac0353a0314cce2/907db/images/180706_factoryiot_fb-41-min-p-1600.jpeg 1600w, https://d33wubrfki0l68.cloudfront.net/8e820fbb1a3c3c722fd854fd819a2ed93827b71d/e3d71/images/180706_factoryiot_fb-41-min-p-2000.jpeg 2000w, https://d33wubrfki0l68.cloudfront.net/b91e4b393802bf8bb9a5a03a489badc8a26df04e/0194e/images/180706_factoryiot_fb-41-min.jpg 2048w" alt="" class="image-42" aria-hidden="true">
 
 ## Data Economy in breve
 
-![MXC_slide](../../Assets/Whitepaper-E-2021-min\Whitepaper-E-2021-min-02.jpg)
-![MXC_slide](../../Assets/Whitepaper-E-2021-min\Whitepaper-E-2021-min-03.jpg)
+![MXC_slide](../../../Assets/Whitepaper-E-2021-min\Whitepaper-E-2021-min-02.jpg)
+![MXC_slide](../../../Assets/Whitepaper-E-2021-min\Whitepaper-E-2021-min-03.jpg)
 
 
 

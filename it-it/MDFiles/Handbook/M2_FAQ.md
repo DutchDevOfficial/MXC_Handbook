@@ -19,7 +19,7 @@ I rendimenti finanziari di un M2 Pro possono variare ampiamente, MXC non può ga
 ## Dove posso comprarne uno?
 Puoi comprarlo direttamente dal produttore: 
 https://www.matchx.io/product/m2-pro-lpwan-crypto-miner/
-<br>[Promo code](MDFiles/Handbook/promocodes.md)
+<br>[Promo code](it-it/MDFiles/Handbook/promocodes.md)
 
 ## Posso installare/usare il M2 Pro miner nel mio paese?
 **Sì**, facciamo spedizioni internazionali verso tutto il mondo dai nostri magazzini in UE e negli USA.<br>
