@@ -11,6 +11,7 @@
 - AMA
     - [AMA Procedure](MDFiles/AMA/AMA_Procedure.md)
     - [AMA's](MDFiles/AMA/AMA.md)
+    - [Telegram AMA](MDFiles/AMA/TelegramAMA1.md)
 
 - Community
     - [GIFS](MDFiles/WallOfFame/gifs.md)
