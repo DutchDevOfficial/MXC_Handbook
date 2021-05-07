@@ -1,9 +1,7 @@
 # Telegram AMA with Siwon
 
-
 Hey everyone 👋 Happy Friday! 
 Just here to vibe with you guys for a while and catch up on what's been happening!
-
 
 
 - One thing i dont understand : To use the miner m2 pro, do i have to buy too mxc and dhx? to earn mxc do i have to buy first mxc? How the miner m2 pro is profitable?  how much coins do i have to buy after getting the miner m2 pro? how much can I make daily/mouthly ?
@@ -52,12 +50,12 @@ So that's kind of the "next level" thing*
 *We have done a project in NYC. More will be coming, of course! With the speed of MXProtocol expanding in the US thanks to all our supporters, it's almost a no brainer that many projects and cities will want to partner with MXC (:*
 
 - I'll sneak one question while everyone is watching the video... @ifyouseeone , any sneak peeks on what's coming up after BTC mining? 🙂
-*After BTC mining, I think you can expect some cool partnerships! 
-I think it's difficult to top the Alibaba x MXC news released recently, but we certainly have some major news coming 👀
+*After BTC mining, I think you can expect some cool partnerships! *
+*I think it's difficult to top the Alibaba x MXC news released recently, but we certainly have some major news coming 👀*
 
-Then the next part is building a bridge between MXC and the world of DeFi through liquidity mining program and so on. A lot of parties have partnered with us to make that a possibility, so I think it will be absolutely huge! 
+*Then the next part is building a bridge between MXC and the world of DeFi through liquidity mining program and so on. A lot of parties have partnered with us to make that a possibility, so I think it will be absolutely huge!*
 
-I think we will be one of the first alts that offer completely one-sided liquidity yield farming (so that you can stake your MXC and the other side is matched through the DeFi world)*
+*I think we will be one of the first alts that offer completely one-sided liquidity yield farming (so that you can stake your MXC and the other side is matched through the DeFi world)*
 
 
 

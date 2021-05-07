@@ -23,4 +23,4 @@ Most of the time – you never even notice browser caching happening. It runs en
 
 For example, you might make a change to your site…but you’re unable to see that change because your browser is still serving up the cached version of that resource. Or, the cache might have become corrupted and is actually interfering with the proper functioning of a web page.
 
-For those reasons, the website might be updated but you are still viewing an order cached version.
+For those reasons, the website might be updated but you are still viewing an older cached version.
