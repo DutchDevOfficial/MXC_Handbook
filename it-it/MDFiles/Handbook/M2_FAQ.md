@@ -1,16 +1,16 @@
 # Domande più frequenti su Telegram
-## CHe monete mina il M2 Pro miner?
+## Che monete mina l'M2 Pro miner?
 - **MXC** 
 - [DHX](MDFiles/Handbook/DHX.md)
 - **BTC** (solamente nella testnet per ora)
 <br>=> il mining è **simultaneo!** 
 
 ## Quanto si guadagna con un miner?
-Il M2 Pro mina **10-14$ al giorno sotto forma di MXC tokens**. Questo è stato confermato da tutti i membri della community. La quantità di token deriva dal prezzo del token, ma il valore in dollari è sempre quello.
+L'M2 Pro mina **10-14$ al giorno sotto forma di MXC tokens**. Questo è stato confermato da tutti i membri della community. La quantità di token deriva dal prezzo del token, ma il valore in dollari è sempre quello.
 
 Risposta ufficiale dal team MXC:
 Questo spesso dipende dal miner in sé. Questo è in fin dei conti un **modello di “Proof Of Participation”**, quindi alla fine il primo elemento essenziale che devi tenere a mente è che sei connesso al sistema MXC attraverso la Data Dash App. Puoi fare questo semplicemente scansionando il QR code del tuo M2 Pro e connettendolo alla Data Dash App.
-Una volta che il M2 Pro è connesso, stai tecnicamente minando. Tuttavia, per migliorare le tue capacità di minare è essenziale piazzare il tuo miner in una posizione elevata, assicurandoti di non incorrere in interruzioni nella connettività internet dello stesso, assicurando così l'uptime. Questi sono gli elementi essenziali per minare $MXC e gli altri tokens.
+Una volta che l'M2 Pro è connesso, stai tecnicamente minando. Tuttavia, per migliorare le tue capacità di minare è essenziale piazzare il tuo miner in una posizione elevata, assicurandoti di non incorrere in interruzioni nella connettività internet dello stesso, assicurando così l'uptime. Questi sono gli elementi essenziali per minare $MXC e gli altri tokens.
 La maggior parte dei miner riferiscono che minano circa **da $10USDT a $14USDT** con il loro M2 Pro ogni giorno, sì, ogni singolo giorno, tutto ciò con il minimo sforozo. Certo, questo è un range generale di rendimento, e il mining di $MXC può aumentare in base all'attività e ai pacchetti in downlink che trasmetti, ma al momento il rateo approssimativo di rendimento sta sui numeri che abbiamo menzionato sopra. **Per ulteriori informazioni sui rendimenti medi per favore chiedi ai nostri followers nel gruppo Telegram o su Twitter.**
 
 I rendimenti finanziari di un M2 Pro possono variare ampiamente, MXC non può garantire alcun rendimento, né sul valore dei tuoi rendimenti, questo perché le criptovalute sono estremamente volatili. **Come azienda noi facciamo del nostro meglio per assicurarci che tu riceva un solido rendimento sul tuo investimento, noi supportiamo chi ci supporta.**
@@ -19,11 +19,11 @@ I rendimenti finanziari di un M2 Pro possono variare ampiamente, MXC non può ga
 ## Dove posso comprarne uno?
 Puoi comprarlo direttamente dal produttore: 
 https://www.matchx.io/product/m2-pro-lpwan-crypto-miner/
-<br>[Promo code](it-it/MDFiles/Handbook/promocodes.md)
+<br>[Promo code](MDFiles/Handbook/promocodes.md)
 
 ## Posso installare/usare il M2 Pro miner nel mio paese?
 **Sì**, facciamo spedizioni internazionali verso tutto il mondo dai nostri magazzini in UE e negli USA.<br>
-Il M2 Pro può funzionare **ovunque**, finché ha una connessione internet stabile. 
+L'M2 Pro può funzionare **ovunque**, finché ha una connessione internet stabile. 
 
 ## Come vengono calcolati i rendimenti?
 I guadagni derivano dal MXProtocol Mining Algorithm, questi guadagni sono basati principalmente sui seguenti fattori chiave:
@@ -35,15 +35,15 @@ I guadagni derivano dal MXProtocol Mining Algorithm, questi guadagni sono basati
 - **Accessori del Miner**
 <br><a href="https://mxcfoundation.medium.com/worlds-most-popular-iot-miner-m2-pro-5f3d56d87a16">source </a>
 
-## Il M2 Pro interferisce con altri dispositivi di telecomunicazione?
-Il **M2 Pro NON interferisce** con altri dispositivi di telecomunicazione. Finché hai un buon router Wi-Fi (nel senso che possa connettere tutti i dispositivi della rete) sei al sicuro. 
+## L'M2 Pro interferisce con altri dispositivi di telecomunicazione?
+L'**M2 Pro NON interferisce** con altri dispositivi di telecomunicazione. Finché hai un buon router Wi-Fi (nel senso che possa connettere tutti i dispositivi della rete) sei al sicuro. 
 
 Fai qualche test sulla connettività e sulla potenza del segnale wifi del tuo router per saperne di più! 🙌
 <br><i>Kirill</i>
 
 
-## Qual è la differenza tra il M2 Pro Miner e l'Helium Hotspot?
-Per prima cosa, il M2 Pro è un miner per esterni con lo standard IP 66 (Ingress Protection code), il che significa che è a prova di pioggia e può essere installato all'esterno e sopravvivere tranquillamente le peggiori condizioni climatiche, perfino un fulmine (se collegate la messa a terra alla scheda). Questo cambia drasticamente la capacità di resistere al tempo atmosferico del miner, e a tutti i casi d'uso che si possano immaginare.
+## Qual è la differenza tra l'M2 Pro Miner e l'Helium Hotspot?
+Per prima cosa, l'M2 Pro è un miner per esterni con lo standard IP 66 (Ingress Protection code), il che significa che è a prova di pioggia e può essere installato all'esterno e sopravvivere tranquillamente le peggiori condizioni climatiche, perfino un fulmine (se collegate la messa a terra alla scheda). Questo cambia drasticamente la capacità di resistere al tempo atmosferico del miner, e a tutti i casi d'uso che si possano immaginare.
 
 Seconda cosa, - la portata - già solo 8-10 M2 Pros possono coprire completamente la rete LPWAN di una città come Berlino e gestire migliaia di sensori e dispositivi allo stesso tempo.
 
@@ -51,22 +51,22 @@ Terza, i componenti aggiuntivi, che sono: un modulo LTE con una SIM card prepaga
 
 Tutto ciò renderà il miner indipendente da ogni cavo e ogni crash di internet (poiché l'SSD servirà come backup per tutti i dati che viaggiano attraverso il vostro M2Pro, non avrai di che preoccuparti che il tuo miner vada offline per qualsivoglia motivo), e quindi non perderai nemmeno un token.
 
-Dulcis in fundo, a parte la supremazia nel lato hardware del M2 Pro, Helium è costruito semplicemente su una Raspberry Pi che sono prodotti da scaffale, disponibili ovunque.
+Dulcis in fundo, a parte la supremazia nel lato hardware dell'M2 Pro, Helium è costruito semplicemente su una Raspberry Pi che sono prodotti da scaffale, disponibili ovunque.
 
-**Il M2 Pro usa tecnologie brevettate che non sono disponibili da nessun'altra parte**, questi brevetti costano soldi, come anche tutti gli sforzi che mettiamo nel nostro miner: abbiamo costruito un miner di ingegneria tedesca, e l'abbiamo costruito a modo! 🇩🇪✊
+**L'M2 Pro usa tecnologie brevettate che non sono disponibili da nessun'altra parte**, questi brevetti costano soldi, come anche tutti gli sforzi che mettiamo nel nostro miner: abbiamo costruito un miner di ingegneria tedesca, e l'abbiamo costruito a modo! 🇩🇪✊
 <br><i>Kirill</i>
 
-## Come sono le specifiche del M2 Pro miner rapportate ad altri miner?
-Il M2 Pro Miner è diverso da ogni altro IoT miner, **è costruito con uno scopo, consuma poco, mina più monete insieme, usa tecnologie brevettate, ha i nostri trademark, e ha pure alcuni brevetti in corso.**
+## Come sono le specifiche dell'M2 Pro miner rapportate ad altri miner?
+L'M2 Pro Miner è diverso da ogni altro IoT miner, **è costruito con uno scopo, consuma poco, mina più monete insieme, usa tecnologie brevettate, ha i nostri trademark, e ha pure alcuni brevetti in corso.**
 
-Il M2 Pro è un miner di criptovalute costruito egregiamente **dall'ingegneria tedesca** che non puoi semplicemente andare a comprare “al supermercato”, come altri miner basati sulle Raspberry Pi. Come possiamo dimostrarvelo?
-Il M2 Pro miner è l'unico miner IoT che offre:
+L'M2 Pro è un miner di criptovalute costruito egregiamente **dall'ingegneria tedesca** che non puoi semplicemente andare a comprare “al supermercato”, come altri miner basati sulle Raspberry Pi. Come possiamo dimostrarvelo?
+L'M2 Pro miner è l'unico miner IoT che offre:
 - **2 chip LoRa Gateway di Seconda Generazione (SX1302)**
 - **16 Canali di Frequenza**
 - **Mina Più Tokens Contemporaneamente: $MXC, $DHX & $BTC**
 
 Questo è un miner da esterni, con un case unico nel suo genere, con standard IP66 ed un rivestimento UV.
-Con la Pole Mount inclusa con ogni M2 Pro, puoi estendere il raggio di copertura del tuo miner **fino a 1,256 kilometri quadrati (485 miglia quadrate)**, poiché il M2 Pro può essere installato esternalmente, in qualsiasi condizione meteo, ed è questo che rende unico l'M2 Pro.
+Con la Pole Mount inclusa con ogni M2 Pro, puoi estendere il raggio di copertura del tuo miner **fino a 1,256 kilometri quadrati (485 miglia quadrate)**, poiché l'M2 Pro può essere installato esternalmente, in qualsiasi condizione meteo, ed è questo che rende unico l'M2 Pro.
 Hardware professionale e dedicato, basato sul processore industriale iMX6.
 L'unico miner IoT che offre un modem interno 4G opzionaleper le installazioni remote.
 L'unico miner IoT con funzioni di auto-diagnosi, tra cui temperatura, voltaggio, corrente, energia, pressione e monitoraggio dell'orientamento 3D.

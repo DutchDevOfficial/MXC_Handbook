@@ -8,27 +8,28 @@
 
 ## Tabella dei contenuti:
 - Prontuario   
-    - [Prontuario](it-it/MDFiles/Handbook/handbook.md)   
-    - [Manuale](it-it/MDFiles/Handbook/manual.md)
-    - [FAQ di Telegram](it-it/MDFiles/Handbook/M2_FAQ.md)
-    - [DHX](it-it/MDFiles/Handbook/DHX.md)
-    - [REP](it-it/MDFiles/Handbook/Rep.md)
-    - [Monete d'Oro](it-it/MDFiles/Handbook/goldcoins.md)
-    - [Video](it-it/MDFiles/Handbook/videos.md)
-    - [Codici promozionali](it-it/MDFiles/Handbook/promocodes.md)
+    - [Prontuario](MDFiles/Handbook/handbook.md)   
+    - [Manuale](MDFiles/Handbook/manual.md)
+    - [FAQ di Telegram](MDFiles/Handbook/M2_FAQ.md)
+    - [DHX](MDFiles/Handbook/DHX.md)
+    - [REP](MDFiles/Handbook/Rep.md)
+    - [Monete d'Oro](MDFiles/Handbook/goldcoins.md)
+    - [Video](MDFiles/Handbook/videos.md)
+    - [Codici promozionali](MDFiles/Handbook/promocodes.md)
 
 - AMA
-    - [Procedura dell'AMA](it-it/MDFiles/AMA/AMA_Procedure.md)
-    - [Domande dell'AMA](it-it/MDFiles/AMA/AMA.md)
+    - [Procedura dell'AMA](MDFiles/AMA/AMA_Procedure.md)
+    - [Top 5 take-aways](MDFiles/AMA/AMA_top5.md)
+    - [Domande dell'AMA](MDFiles/AMA/AMA.md)
 
 - Community
-    - [GIFS](it-it/MDFiles/WallOfFame/gifs.md)
-    - [Statistiche del M2 Pro](it-it/MDFiles/WallOfFame/m2prostats.md)
+    - [GIFS](MDFiles/WallOfFame/gifs.md)
+    - [Statistiche dell'M2 Pro](MDFiles/WallOfFame/m2prostats.md)
 
 - Extra
-    - [Contribuisci](it-it/MDFiles/Contact/contact.md)
-    - [Wall Of Fame](it-it/MDFiles/WallOfFame/main.md)
-    - [Problemi di cache?](it-it/MDFiles/Contact/cache.md)
+    - [Contribuisci](MDFiles/Contact/contact.md)
+    - [Wall Of Fame](MDFiles/WallOfFame/main.md)
+    - [Problemi di cache?](MDFiles/Contact/cache.md)
     - [Contatti](https://t.me/Dutchdev)
 
 # Chi sono io?
@@ -47,7 +48,7 @@ Questa guida è stata fatta al meglio delle mie capacità. Se hai ancora delle d
 
 <iframe height="350" src="https://www.youtube.com/embed/7TYA6awG0j4" title="MXC coin explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-MXC è inoltre un **network globale di dati**, un network che si sta espandendo velocemente in tutto il mondo. Questo network globale viene usato per trasportare pacchetti di data **più facilmente e velocemente che mai**. Utilizzando la tecnologia LPWAN, la fondazione MXC promuove questo network con il M2 Pro Miner. 
+MXC è inoltre un **network globale di dati**, un network che si sta espandendo velocemente in tutto il mondo. Questo network globale viene usato per trasportare pacchetti di data **più facilmente e velocemente che mai**. Utilizzando la tecnologia LPWAN, la fondazione MXC promuove questo network con l'M2 Pro Miner. 
 
 **MXC è un token data, un token che sta arrivando ovunque nel mondo!**
 

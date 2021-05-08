@@ -44,6 +44,6 @@ https://docs.google.com/spreadsheets/d/1NLkSf6T23dAS77gJ3_b-veXvlVQ1Z5Z3kg-AcxI4
 - C'è un massimo di **5,000 DHX** che possono essere minati in totale ogni giorno, che vengono poi divisi tra tutti i minatori.
 
 ## Il mio M2 Pro mina DHX?
-Un incentivo aggiunto per le persone che hanno la DataDash App e hanno già comprato il M2 Pro Miner è quello di poter usare il loro **M2 Pro come mining booster** — 1 milione di MXC and 1 M2 pro equivalgono a 2 milioni di mPower. Il livello successivo di boost è 2 milioni di MXC and 2 M2 Pro che equivalgono a 4 milioni di mPower. Puoi comprare un M2 Pro su MatchX.
+Un incentivo aggiunto per le persone che hanno la DataDash App e hanno già comprato l'M2 Pro Miner è quello di poter usare il loro **M2 Pro come mining booster** — 1 milione di MXC and 1 M2 pro equivalgono a 2 milioni di mPower. Il livello successivo di boost è 2 milioni di MXC and 2 M2 Pro che equivalgono a 4 milioni di mPower. Puoi comprare un M2 Pro su MatchX.
 
 [Source](https://jessica-86960.medium.com/mxc-holders-given-the-chance-to-premine-dhx-for-free-e885fea30263)

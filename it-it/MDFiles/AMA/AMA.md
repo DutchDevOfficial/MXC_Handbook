@@ -4,7 +4,7 @@
 
 ### I sensori di altri produttori sono compatibili con il network o i sensori devono essere della Fondazione MXC per funzionare all'interno del network? @Ab CD
 
-L'M2 Pro utilizza la tecnologia LPWAN, detta LoRaWAN come base per il ben noto MXProtocol. Ciò significa che tutti i sensori e dispositivi compatibili con la LoRaWAN possono essere connessi facilmente e perfettamente al M2 Pro. MatchX/MXC crede nel potere della tecnologia LoRaWAN insieme al MXProtocol. A partire già da oggi, si possono connettere fino a sensori 100K LoRaWAN ad un M2 Pro e godere dell'IoT a consumi ridotti.
+L'M2 Pro utilizza la tecnologia LPWAN, detta LoRaWAN come base per il ben noto MXProtocol. Ciò significa che tutti i sensori e dispositivi compatibili con la LoRaWAN possono essere connessi facilmente e perfettamente all'M2 Pro. MatchX/MXC crede nel potere della tecnologia LoRaWAN insieme al MXProtocol. A partire già da oggi, si possono connettere fino a sensori 100K LoRaWAN ad un M2 Pro e godere dell'IoT a consumi ridotti.
 ﻿
 A parte questo, stiamo già parlando con alcuni produttori in tutto il mondo che sono molto interessati all'aggiungere il MXProtocol nei loro dispositivi in aggiunta al LoRaWAN. Dai sensori di umidità e temperatura ai sensori di parcheggio e di localizzazione di esseri umani!
 
@@ -22,7 +22,7 @@ Il Bitcoin mining è un argomento abbastanza complesso. La risposta più semplic
 
 ### L'antenna 4G mi permetterà di piazzare il mio miner dovunque io voglia, specie in posti in cui è difficile installare un cavo Ethernet, come per esempio il tetto di un edificio o la cima di un albero? @Mark mattheiss
 
-Come potresti già sapere, TUTTI i tuoi miner verranno utilizzati come un **ombrello LPWAN** ☔️ per milioni di dispositivi #IoT là fuori (molti utilizzatori del M2 Pro potrebbero aver già visto dei pacchetti data nella loro app DataDash), ciò significa che il posizionamento del vostro M2 Pro giocherà un ruolo significativo, che eventualmente porterà ad una domanda: 
+Come potresti già sapere, TUTTI i tuoi miner verranno utilizzati come un **ombrello LPWAN** ☔️ per milioni di dispositivi #IoT là fuori (molti utilizzatori dell'M2 Pro potrebbero aver già visto dei pacchetti data nella loro app DataDash), ciò significa che il posizionamento del vostro M2 Pro giocherà un ruolo significativo, che eventualmente porterà ad una domanda: 
 
 Qual è il modo migliore per installare il nostro M2 Pro per assicurarci una copertura decente?
 
@@ -41,7 +41,7 @@ C'è qualcuno dalla California, qui, o dall'America Latina? 😉
 
 Oh wow, questa è una domanda veramente approfondita!
 
-Hai ragione, non deriva dalla somma dell'hashing power dei vari miner. Il M2 Pro non funziona con un modello PoW, quindi non c'è alcuna hashing power da calcolare. Il processo di mining implica guardare al mining PoP come se i miner partecipanti minassero dei blocchi di data, e sfruttassero la nostra parachain per convertire le ricompense all'interno dei blocchi data in BItcoin Bitcoin, insieme a qualche messa a punto per mettere ogni M2 Pro come un nodo indipendente ma allo stesso tempo collaborativo che scommette per della polvere di Bitcoin (dei Satoshi). Quindi l'aspetto principale è la parachain MXC, non l'hashing rate.
+Hai ragione, non deriva dalla somma dell'hashing power dei vari miner. L'M2 Pro non funziona con un modello PoW, quindi non c'è alcuna hashing power da calcolare. Il processo di mining implica guardare al mining PoP come se i miner partecipanti minassero dei blocchi di data, e sfruttassero la nostra parachain per convertire le ricompense all'interno dei blocchi data in BItcoin Bitcoin, insieme a qualche messa a punto per mettere ogni M2 Pro come un nodo indipendente ma allo stesso tempo collaborativo che scommette per della polvere di Bitcoin (dei Satoshi). Quindi l'aspetto principale è la parachain MXC, non l'hashing rate.
 
 Ho provato a semplificarla un po', ma non mi sono reso conto che è stato una grossa quantità di informazioni! :D Mi prenderò sicuramente un momento dopo per parlare più nel dettaglio a riguardo di questo aspetto. (:
 <br><i>Siwon</i>
@@ -57,17 +57,17 @@ Wow, wow, le cose si fanno serie, adesso! 🙂
 
 Proverò a rispondere in maniera breve e andrò diretto al punto 😁👍
 
-Per prima cosa, il M2 Pro è un miner per esterni con lo standard IP 66 (Ingress Protection code), il che significa che è a prova di pioggia e può essere installato all'esterno e sopravvivere tranquillamente le peggiori condizioni climatiche, perfino un fulmine (se collegate la messa a terra alla scheda). Questo cambia drasticamente la capacità di resistere al tempo atmosferico del miner, e a tutti i casi d'uso che si possano immaginare.
+Per prima cosa, l'M2 Pro è un miner per esterni con lo standard IP 66 (Ingress Protection code), il che significa che è a prova di pioggia e può essere installato all'esterno e sopravvivere tranquillamente le peggiori condizioni climatiche, perfino un fulmine (se collegate la messa a terra alla scheda). Questo cambia drasticamente la capacità di resistere al tempo atmosferico del miner, e a tutti i casi d'uso che si possano immaginare.
 
-Seconda cosa, - la portata - già solo 8-10 M2 Pros possono coprire completamente la rete LPWAN di una città come Berlino e gestire migliaia di sensori e dispositivi allo stesso tempo. 
+Seconda cosa, - la portata - già solo 8-10 M2 Pro possono coprire completamente la rete LPWAN di una città come Berlino e gestire migliaia di sensori e dispositivi allo stesso tempo. 
 
 Terza, i componenti aggiuntivi, che sono: un modulo LTE con una SIM card prepagata, un pannello solare e una memoria SSD - tutti componenti che arriveranno molto presto! 
 
 Tutto ciò renderà il miner indipendente da ogni cavo e ogni crash di internet (poiché l'SSD servirà come backup per tutti i dati che viaggiano attraverso il vostro M2Pro, non avrai di che preoccuparti che il tuo miner vada offline per qualsivoglia motivo), e quindi non perderai nemmeno un token.
 
-Dulcis in fundo, a parte la supremazia nel lato hardware del M2 Pro, Helium è costruito semplicemente su una Raspberry Pi che sono prodotti da scaffale, disponibili ovunque.
+Dulcis in fundo, a parte la supremazia nel lato hardware dell'M2 Pro, Helium è costruito semplicemente su una Raspberry Pi che sono prodotti da scaffale, disponibili ovunque.
 
-Il M2 Pro usa tecnologie brevettate che non sono disponibili da nessun'altra parte, questi brevetti costano soldi, come anche tutti gli sforzi che mettiamo nel nostro miner: abbiamo costruito un miner di ingegneria tedesca, e l'abbiamo costruito a modo! 🇩🇪✊
+L'M2 Pro usa tecnologie brevettate che non sono disponibili da nessun'altra parte, questi brevetti costano soldi, come anche tutti gli sforzi che mettiamo nel nostro miner: abbiamo costruito un miner di ingegneria tedesca, e l'abbiamo costruito a modo! 🇩🇪✊
 <br><i>Kirill</i>
 
 ### Quando comincerà il mining di DOT e cosa dovremmo aspettarci dalla partnership con Polkadot?
@@ -80,7 +80,7 @@ Abbiamo accennato ad un'alleanza tra MXC, Polkadot e DataHighway. La partnership
 E ovviamente, questo renderà MXC uno dei nomi principali nel mondo crypto 😉
 <br><i>Siwon</i>
 
-### State lavorando ad una piattaforma con tutte le funzioni (dashboard, monitoring a distanza, etc) per gestire tutti i dispositivi che in futuro si connetteranno al dispositivo LoRaWAN più avanzato di sempre, il M2 Pro miner?
+### State lavorando ad una piattaforma con tutte le funzioni (dashboard, monitoring a distanza, etc) per gestire tutti i dispositivi che in futuro si connetteranno al dispositivo LoRaWAN più avanzato di sempre, l'M2 Pro miner?
 
 Ottima domanda! E si riferisce a ciò che stiamo già costruendo qua - il futuro dell' #IoT 🔧Ⓜ️
 
@@ -130,9 +130,9 @@ Non essere timido! Uniti, possiamo costruire il #FutureOfIoT 〽️
 
 ### Che tipo di sensori potremo usare nel prossimo futuro? Qualche dettaglio in più riguardo cose come IA, o cose che avete mostrato in passato? Qualche emozionante sensore in arrivo, o partnership con qualche grande azienda di sensori?
 
-Qualsiasi sensore #LoRAWAN compatibile può collegarsi al M2 Pro. Attualmente, il nostro focus è sulle telecamere IA (qui c'è un link per il Devkit, si chiama EdgeX - https://www.matchx.io/edgexdevkit/#edgexdevkit). 
+Qualsiasi sensore #LoRAWAN compatibile può collegarsi all'M2 Pro. Attualmente, il nostro focus è sulle telecamere IA (qui c'è un link per il Devkit, si chiama EdgeX - https://www.matchx.io/edgexdevkit/#edgexdevkit). 
 
-La telecamera è pensata con la stessa filosofia del M2 Pro - Plug ‘n Play - il che significa che chiunque sarà in grado di installare questa camera per i propri scopi semplicemente scannerizzando il QR Code, così da connetterla al proprio DataDash Account e a tutti gli M2 Pro nelle vicinanze. 
+La telecamera è pensata con la stessa filosofia dell'M2 Pro - Plug ‘n Play - il che significa che chiunque sarà in grado di installare questa camera per i propri scopi semplicemente scannerizzando il QR Code, così da connetterla al proprio DataDash Account e a tutti gli M2 Pro nelle vicinanze. 
 
 Per esepmio: puoi installare una telecamera all'entrata di casa, così da poter riconoscere ogni umano o animale che passa nella tua proprietà e mandarti una notifica push nel telefono subito dopo. 
 
