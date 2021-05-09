@@ -11,6 +11,7 @@ DHX o DataHighway è una DAO, **una "decentralised autonomous organisation"**, l
 Devi prima di tutto **scaricare la Data Dash App**. Dopodiché puoi cercare l'icona DHX nella DataDash App. Aggiungi dei token DHX e sei pronto per cominciare. **Puoi quindi mettere in lock i tuoi MXC, mettere in bond i tuoi DHX, per potere quindi guadagnare DHX,** come illustrato nell'immagine sottostante:
 
 *UPDATE : Da ora puoi anche mettere in bond i tuoi DHX per minare DHX!*
+
 <img src="../../Assets/DHX/tutorial.jpg" alt="DHX tutorial" width= 350 length=500>
 
 ### Come metto in lock i token MXC?

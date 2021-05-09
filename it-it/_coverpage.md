@@ -1,4 +1,4 @@
-![logo](/Assets/Logo/Logo_fit.png)
+![logo](../Assets/Logo/Logo_fit.png)
 
 # Il Prontuario MXC <small>V1</small>
 
@@ -8,7 +8,7 @@
 - Dalla community, per la community
 - Tutto in uno
 
-[AMA](/MDFiles/AMA/AMA)
-[Prontuario](/MDFiles/Handbook/handbook)
+[AMA](it-it/MDFiles/AMA/AMA)
+[Prontuario](it-it/MDFiles/Handbook/handbook)
 
 

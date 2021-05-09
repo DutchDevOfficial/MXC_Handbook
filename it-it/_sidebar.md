@@ -1,26 +1,25 @@
 - Prontuario   
-    - [Prontuario](MDFiles/Handbook/handbook.md)   
-    - [Manuale](MDFiles/Handbook/manual.md)
-    - [FAQ di Telegram](MDFiles/Handbook/M2_FAQ.md)
-    - [DHX](MDFiles/Handbook/DHX.md)
-    - [REP](MDFiles/Handbook/Rep.md)
-    - [Monete d'Oro](MDFiles/Handbook/goldcoins.md)
-    - [Video](MDFiles/Handbook/videos.md)
-    - [Codici promozionali](MDFiles/Handbook/promocodes.md)
+    - [Prontuario](it-it/MDFiles/Handbook/handbook.md)   
+    - [Manuale](it-it/MDFiles/Handbook/manual.md)
+    - [FAQ di Telegram](it-it/MDFiles/Handbook/M2_FAQ.md)
+    - [DHX](it-it/MDFiles/Handbook/DHX.md)
+    - [REP](it-it/MDFiles/Handbook/Rep.md)
+    - [Monete d'Oro](it-it/MDFiles/Handbook/goldcoins.md)
+    - [Video](it-it/MDFiles/Handbook/videos.md)
+    - [Codici promozionali](it-it/MDFiles/Handbook/promocode.md)
 
 - AMA
-    - [Procedura dell'AMA](MDFiles/AMA/AMA_Procedure.md)
-    - [Top 5 take-aways](MDFiles/AMA/AMA_top5.md)
-    - [Domande dell'AMA](MDFiles/AMA/AMA.md)
+    - [Procedura dell'AMA](it-it/MDFiles/AMA/AMA_Procedure.md)
+    - [Domande dell'AMA](it-it/MDFiles/AMA/AMA.md)
+    - [Telegram AMA](it-it/MDFiles/AMA/TelegramAMA1.md)
 
 - Community
-    - [GIFS](MDFiles/WallOfFame/gifs.md)
-    - [Statistiche dell'M2 Pro](MDFiles/WallOfFame/m2prostats.md)
+    - [GIFS](it-it/MDFiles/WallOfFame/gifs.md)
+    - [Statistiche dell'M2 Pro](it-it/MDFiles/WallOfFame/m2prostats.md)
 
 - Extra
-    - [Contribuisci](MDFiles/Contact/contact.md)
-    - [Wall Of Fame](MDFiles/WallOfFame/main.md)
-    - [Problemi di cache?](MDFiles/Contact/cache.md)
+    - [Contribuisci](it-it/MDFiles/Contact/contact.md)
+    - [Wall Of Fame](it-it/MDFiles/WallOfFame/main.md)
+    - [Problemi di cache?](it-it/MDFiles/Contact/cache.md)
     - [Contatti](https://t.me/Dutchdev)
-
 
