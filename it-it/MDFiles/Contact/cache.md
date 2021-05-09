@@ -7,7 +7,7 @@ Una volta che hai ripulito cookies, cache e cronologia del browser puoi ricarica
 - Chrome e Firefox per Mac: **CMD + SHIFT + R**
 
 ### Telefoni
-	- Ipad/Iphone
+- Ipad/Iphone
     - Vai nelle impostazioni
     - Scendi giù fino a Safari
     - Scendi giù fino a “Cancella dati siti web e cronologia.”
