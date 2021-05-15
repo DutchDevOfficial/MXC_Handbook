@@ -2,6 +2,14 @@
 
 This is the M2 Pro's user guide, it contains all info you need about the hardware!
 
+[English PDF](../../Assets/Instructions/MatchX-M2-Pro-User-Guide.pdf)
+
+Translated version thanks to @TavernSideGaming
+[translated Chineese PDF](../../Assets/Instructions/MatchX-M2-Pro-User-Guide - Chinese.pdf)
+[translated German PDF](../../Assets/Instructions/MatchX-M2-Pro-User-Guide German.pdf)
+[translated French PDF](../../Assets/Instructions/MatchX-M2-Pro-User-Guide - French.pdf)
+
+
 ![instructions](../../Assets/Instructions/MatchX-M2-Pro-User-Guide-01.jpg)
 ![instructions](../../Assets/Instructions/MatchX-M2-Pro-User-Guide-02.jpg)
 ![instructions](../../Assets/Instructions/MatchX-M2-Pro-User-Guide-03.jpg)
