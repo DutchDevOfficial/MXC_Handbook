@@ -189,3 +189,33 @@ MXC mining will ensure long-tail earnings for MXC hodlers
 
 
 4️⃣ MXC working with electric car company on LPWAN Data transmission tests
+
+# [LIVE] AMA: Telegram 10K, Sneak Peek, and Giveaway! (feat. Aaron & Siwon)
+
+<iframe height="350" src="https://www.youtube.com/embed/uZJDJ-C_riE" title="[LIVE] AMA: Telegram 10K, Sneak Peek, and Giveaway! (feat. Aaron & Siwon)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+(Awesome shoutout to the handbook: https://youtu.be/uZJDJ-C_riE?t=4135! )
+
+💥💥💥💥💥MXC AMA - RECAP by Keith!!!!!!💥💥💥💥💥
+
+AMA TAKEAWAY #1 🗣💥💰🙌
+
+Das Kaiser Projekt II - DKPII - Sign-Up List will open 
+Tuesday 25th May. For 10 Days! Allowing all new miners to apply!
+
+Mining $BTC with the M2 PRO ‼️
+
+AMA TAKEAWAY #2 🦄🔁💰🙌
+
+Uniswap development update next week - integrating MXC earnings into the DataDash App to
+increase your M2 Pro returns even more! 🤑
+
+AMA TAKEAWAY #3 💊🔬💰🎉
+
+M2 Pro Health - concerns about the $10 - $14 base disappearing is a choice the MXC team is leaving up to Miners. 
+There will be increase Participative models brought, allowing everyone to continue to receive their base Mining. Ⓜ️⛏ You will still earn the base by doing nothing 😄
+This health will be brought in very, very slowly to ensure everyone understands how it works. It's expected to be a process over many months, MXC CO-Founder Aaron Wagener "It's giving the power back to our Mining community, allowing them to decide how long they extend base earnings"
+
+AMA TAKEAWAY #4 🙂➡️😁💰💰
+
+REFER-A-FRIEND is coming! The team is preparing to launch a refer a friend campaign next week! Where both you and your friend will earn for bringing people to the MXC Mining Movement! 🤜💥🤛
