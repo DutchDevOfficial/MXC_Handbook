@@ -5,3 +5,4 @@ Send me a message on [Telegram](https://t.me/Dutchdev)
 
 
 
+THIS IS RUNNING ON THE NEW DNS + SERVER
