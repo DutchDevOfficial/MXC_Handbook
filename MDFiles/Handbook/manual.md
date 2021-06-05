@@ -1,13 +1,15 @@
 # M2 Pro User Guide
 
 ## Manual
-This is the M2 Pro's user guide, it contains all info you need about the hardware! 
-[English PDF](../../Assets/Instructions/MatchX-M2-Pro-User-Guide.pdf)
+This is the M2 Pro's user guide, it contains all info you need about the hardware!<br>
+[:gb: English PDF](https://mxchandbook.org/Assets/Instructions/MatchX-M2-Pro-User-Guide.pdf)
 
 Translated version thanks to [@TavernSideGaming](https://t.me/TavernSideGaming) <br>
-[:cn: translated Chineese](../../Assets/Instructions/MatchX-M2-Pro-User-Guide-Chinese.pdf)<br>
-[:de: translated German](../../Assets/Instructions/MatchX-M2-Pro-User-Guide-German.pdf)<br>
-[:fr: translated French](../../Assets/Instructions/MatchX-M2-Pro-User-Guide-French.pdf)<br>
+[:cn: translated Chineese](https://mxchandbook.org/Assets/Instructions/MatchX-M2-Pro-User-Guide-Chinese.pdf)<br>
+[:de: translated German](https://mxchandbook.org/Assets/Instructions/MatchX-M2-Pro-User-Guide-German.pdf)<br>
+[:fr: translated French](https://mxchandbook.org/Assets/Instructions/MatchX-M2-Pro-User-Guide-French.pdf)<br>
+[:kr: translated Korean](https://mxchandbook.org/Assets/Instructions/MatchX-M2-Pro-User-Guide-Korean.pdf)<br>
+[:ru: translated Russian](https://mxchandbook.org/Assets/Instructions/MatchX-M2-Pro-User-Guide-Russian.pdf)<br>
 
 # Light status
 ![lights](../../Assets/Instructions/lights.png)
