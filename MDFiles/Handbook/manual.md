@@ -9,7 +9,10 @@ Translated version thanks to @TavernSideGaming
 [translated German PDF](../../Assets/Instructions/MatchX-M2-Pro-User-Guide German.pdf)
 [translated French PDF](../../Assets/Instructions/MatchX-M2-Pro-User-Guide - French.pdf)
 
+# Light status
+![lights](../../Assets/Instructions/lights.png)
 
+# Picture version
 ![instructions](../../Assets/Instructions/MatchX-M2-Pro-User-Guide-01.jpg)
 ![instructions](../../Assets/Instructions/MatchX-M2-Pro-User-Guide-02.jpg)
 ![instructions](../../Assets/Instructions/MatchX-M2-Pro-User-Guide-03.jpg)
