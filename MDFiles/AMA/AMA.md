@@ -219,3 +219,36 @@ This health will be brought in very, very slowly to ensure everyone understands 
 AMA TAKEAWAY #4 🙂➡️😁💰💰
 
 REFER-A-FRIEND is coming! The team is preparing to launch a refer a friend campaign next week! Where both you and your friend will earn for bringing people to the MXC Mining Movement! 🤜💥🤛
+
+
+# Technical AMA with Jeff (mainly miner fuel)
+Takeaways by Keith!
+
+
+#### MXC AMA TAKEAWAY 1 
+*MINER HEALTH* is the next step in the interchain data market for the MXC Movement.📢🔆
+By improving the participation on this level MXC and our Mining community will take blockchain and IoT to the mainstream!
+This is expected to take the MXC token to the next level  🚀 as a token movement on the crypto charts 🌝
+
+
+####  MXC AMA TAKEAWAY 2
+
+Miner health is an **extension** of POP, to keep everyone participating, and earning rewards 🔑 
+The key area for Miners to focus on is to ensure connectivity, uptime is essential!
+🔆🔱
+miner health is expected to extend the base rewards, ensuring more Can mine their base and other ways for longer 
+✅
+
+
+####  MXC AMA TAKEAWAY 3
+
+**MXC is always on your side** 🤝 
+M2 Pro Miner Health won't happen overnight, it's going to be rolled out over a period of time. With just the first two items being released first. There will be no surprises on this. We want you to keep earning 💥🚀💪
+
+
+#### Statement by Aaron in the TG afterwards
+- Your base mining will continue to mine and earn and in fact with miner health it will in fact **EXTEND** the base earnings
+- We will be rolling out **MORE** ways to earn including the Liquidity Markets and DFi (you will need a high amount of MTL to get high returns)
+- We are preparing for the next phase of POP, this will make **the network more robust**, allowing for MXC to build a sustainable network that can also monetise the new sensors coming on to the market thanks to our friends at Amazon who are also pushing LORA / LPWAN
+
+*IoT has an amazing future, with Amazon also coming onboard to LPWAN its proof that all of us, right here are heading in the right direction. We want all of you to continue to earn, because we want this robust network, so we designed a method to ensure you continue to earn*
