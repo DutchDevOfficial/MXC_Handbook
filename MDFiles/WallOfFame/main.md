@@ -8,7 +8,7 @@ Everyone who helped this project reach its current state will be thanked in this
 * [Wille_Willson](https://t.me/Wille_Willson)
 * [WM](https://t.me/wiseoldman)
 * [PHAN](https://t.me/PHANzgz)
-* [STG](https://t.me/TavernSideGaming)
+* [Tavern Side Gaming](https://t.me/TavernSideGaming)
 
 **Contribution**
 * [Brian Allan](https://t.me/BrinerMiner) (http://www.mxcfaq.com)
