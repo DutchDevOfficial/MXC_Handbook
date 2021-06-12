@@ -252,3 +252,16 @@ M2 Pro Miner Health won't happen overnight, it's going to be rolled out over a p
 - We are preparing for the next phase of POP, this will make **the network more robust**, allowing for MXC to build a sustainable network that can also monetise the new sensors coming on to the market thanks to our friends at Amazon who are also pushing LORA / LPWAN
 
 *IoT has an amazing future, with Amazon also coming onboard to LPWAN its proof that all of us, right here are heading in the right direction. We want all of you to continue to earn, because we want this robust network, so we designed a method to ensure you continue to earn*
+
+
+# 1on1 with Mo: Miner Health, Fuel, and NFTs (feat. MXC1)
+
+<iframe height="350" src="https://www.youtube.com/embed/Ob67bJjhGII" title="[AMA] 1on1 with Mo: Miner Health, Fuel, and NFTs (feat. MXC1)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### Miner health
+
+Proximity - 7%
+Reliability - 20%
+GPS - 10% 
+Altitude - 5%
+Miner Fuel - The rest
