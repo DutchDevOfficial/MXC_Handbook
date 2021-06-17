@@ -74,6 +74,9 @@ Want to stay up-to-date?
 Mining is easy! This diagram should describe it as simple as possible:
 ![MXC](../../Assets/Made/MXC_earningv2.png)
 
+## Setup the M2 Pro via Wifi
+<iframe height="350" src="https://www.youtube.com/embed/U1jNl837CfE" title="M2 Pro wifi setup" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Where does the money go?
 ![MXC_slide](../../Assets/Whitepaper-E-2021-min\Whitepaper-E-2021-min-07.jpg)
 ![MXC_slide](../../Assets/Whitepaper-E-2021-min\Whitepaper-E-2021-min-08.jpg)
