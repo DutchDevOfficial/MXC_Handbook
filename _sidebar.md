@@ -1,5 +1,6 @@
 - Handbook   
-    - [Handbook](MDFiles/Handbook/handbook.md)   
+    - [Handbook](MDFiles/Handbook/handbook.md) 
+    - [Miner Health](MDFiles/Handbook/miner_health.md)  
     - [Manual](MDFiles/Handbook/manual.md)
     - [Telegram FAQ](MDFiles/Handbook/M2_FAQ.md)
     - [DHX](MDFiles/Handbook/DHX.md)
