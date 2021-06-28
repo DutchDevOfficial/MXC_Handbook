@@ -12,6 +12,7 @@
     - [Miner Health](MDFiles/Handbook/miner_health.md)
     - [Manual](MDFiles/Handbook/manual.md)
     - [Telegram FAQ](MDFiles/Handbook/M2_FAQ.md)
+    - [Anti FUD](MDFiles/Handbook/anti_fud.md)
     - [DHX](MDFiles/Handbook/DHX.md)
     - [REP](MDFiles/Handbook/Rep.md)
     - [Gold Coins](MDFiles/Handbook/goldcoins.md)
