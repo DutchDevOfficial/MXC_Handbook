@@ -14,19 +14,26 @@ This guide is made to the best of our ability. If you have any further more deta
 
 
 # ⭐ Wall of fame
-[Wall of fame](https://mxchandbook.org/#/MDFiles/WallOfFame/main)
+Published version: [Wall of fame](https://mxchandbook.org/#/MDFiles/WallOfFame/main)
 
 ### Creator
 Joseph | DutchDev
 
 ### Feedback
 Kirill | MatchX
+
 Keith | MXC.org
+
 Wille_Willson
+
 WM
+
 PHAN
+
 Tavern Side Gaming
+
 
 ### Contribution
 Brian Allan (http://www.mxcfaq.com)
+
 Monok (Italian Translation)
