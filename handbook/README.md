@@ -39,7 +39,7 @@
 I am **a passionate MXC supporter** who strongly believes in the vision of MXC and the global rollout of the Data Network. 
 
 <i>Disclamer:
-This guide is made to the best of my ability. If you have any further more detailed questions feel fre ask them in the MXC [supporters group](https://t.me/mxcfoundation) on their socials or [MXC](https://www.mxc.org/) themselves. </i>
+This guide is made to the best of my ability. If you have any further more detailed questions feel free to ask them in the MXC [supporters group](https://t.me/mxcfoundation) on their socials or [MXC](https://www.mxc.org/) themselves. </i>
 
 # What is MXC?
 <!-- <div class="coinmarketcap-currency-widget" data-currencyid="3628" data-base="EUR" data-secondary="USD" data-ticker="true" data-rank="true" data-marketcap="true" data-volume="true" data-statsticker="true" data-stats="USD"></div> -->
