@@ -4,23 +4,23 @@
 
 <iframe height="350" src="https://www.youtube.com/embed/sLjdkI5KRQo?start=73" title="Mxchandbook mention" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**Don't know were to start?** checkout: [Handbook](MDFiles/Handbook/handbook.md)   
+**Don't know where to start?** checkout: [MXC Overview](MDFiles/Handbook/handbook.md)   
 
-## Table of content:
+## Table of Contents
 - Handbook   
-    - [Handbook](MDFiles/Handbook/handbook.md) 
+    - [MXC Overview](MDFiles/Handbook/handbook.md) 
     - [Miner Health](MDFiles/Handbook/miner_health.md)
-    - [Manual](MDFiles/Handbook/manual.md)
+    - [M2 Pro miner - User Guide](MDFiles/Handbook/manual.md)
     - [Telegram FAQ](MDFiles/Handbook/M2_FAQ.md)
-    - [Anti FUD](MDFiles/Handbook/anti_fud.md)
+    - [MXC Background and Credentials](MDFiles/Handbook/anti_fud.md)
     - [DHX](MDFiles/Handbook/DHX.md)
-    - [REP](MDFiles/Handbook/Rep.md)
+    - ["Rep" (in Telegram)](MDFiles/Handbook/Rep.md)
     - [Gold Coins](MDFiles/Handbook/goldcoins.md)
     - [Videos](MDFiles/Handbook/videos.md)
     - [DataDash App](MDFiles/Handbook/dd.md)
     - [Promo code](MDFiles/Handbook/promocode.md)
 
-- AMA
+- AMA Sessions ("Ask Me Anything")
     - [AMA Procedure](MDFiles/AMA/AMA_Procedure.md)
     - [AMA's](MDFiles/AMA/AMA.md)
     - [Telegram AMA](MDFiles/AMA/TelegramAMA1.md)
@@ -31,15 +31,15 @@
 
 - Extra
     - [Help to build](MDFiles/Contact/contact.md)
-    - [Wall Of Fame](MDFiles/WallOfFame/main.md)
+    - [Wall of Fame](MDFiles/WallOfFame/main.md)
     - [Fix cache](MDFiles/Contact/cache.md)
     - [Contact](https://t.me/Dutchdev)
 
-# Who am I?
-I am **a passionate MXC supporter** who strongly believes in the vision of MXC and the global rollout of the Data Network. 
+# Who are we?
+We are **passionate MXC supporters** who strongly believe in the vision of MXC and the global rollout of the MXC Data Network. 
 
 <i>Disclamer:
-This guide is made to the best of my ability. If you have any further more detailed questions feel free to ask them in the MXC [supporters group](https://t.me/mxcfoundation) on their socials or [MXC](https://www.mxc.org/) themselves. </i>
+This guide is made to the best of our ability. If you have any more detailed questions that this guide does not answer, feel free to ask in the [MXC Telegram supporter's group](https://t.me/mxcfoundation) or [MXC Discord](https://mxc.news/mxcdiscord) or on other social media. And you can also contact the [MXC Foundation](https://www.mxc.org/) directly itself. </i>
 
 # What is MXC?
 <!-- <div class="coinmarketcap-currency-widget" data-currencyid="3628" data-base="EUR" data-secondary="USD" data-ticker="true" data-rank="true" data-marketcap="true" data-volume="true" data-statsticker="true" data-stats="USD"></div> -->
@@ -51,7 +51,7 @@ This guide is made to the best of my ability. If you have any further more detai
 
 <iframe height="350" src="https://www.youtube.com/embed/7TYA6awG0j4" title="MXC coin explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-MXC is also a **global data network**, a network that is quickly spreading across the globe. This global data network is being used to deliver data packets **more easily and faster than ever before**. Using LPWAN technology the MXC Foundation is promoting this global data network via the M2 Pro Miner. 
+MXC is also a **global data network**, a network that is quickly spreading across the globe. This global data network is being used to deliver data packets **more easily, across longer distances and faster than ever before**. Using LPWAN technology the MXC Foundation is promoting this global data network via the MXProtocol and the M2 Pro Miner. 
 
 **MXC is a data token, a token that is covering the planet!**
 
