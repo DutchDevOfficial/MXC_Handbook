@@ -6,9 +6,13 @@ Are you brand new to MXC and/or cryptocurrency? Consider checking out the [MXC F
 
 
 ## What is MXC?
-**MXC** stands for *Machine eXchange Coin* and is a cryptocurrency token (an [ERC20](https://www.investopedia.com/tech/why-crypto-users-need-know-about-erc20-token-standard/)  **utility token** to be exact). It is used for IoT (*Internet of Things*) device transactions conducted through [LPWAN](https://en.wikipedia.org/wiki/LPWAN) data networks that use MXC. MXC adds value to LPWAN (also sometimes referred to as *LoRaWAN*) networks by giving the IoT and MXC communities a chance to share in IoT profits through mining, staking and other means.
+**MXC** stands for *Machine eXchange Coin* and is a cryptocurrency token (an [ERC20](https://www.investopedia.com/tech/why-crypto-users-need-know-about-erc20-token-standard/)  **utility token** to be exact). It is used for IoT (*Internet of Things*) device transactions conducted through [LPWAN](https://en.wikipedia.org/wiki/LPWAN) data networks that use MXC. MXC adds value to LPWAN (also sometimes referred to as *LoRaWAN*) networks by giving the IoT and MXC communities a chance to share in IoT profits through mining, staking and IoT data-handling.
+
+We know, that was a mouthful!  Maybe this video will help:
 
 <iframe height="350" src="https://www.youtube.com/embed/7TYA6awG0j4" title="MXC coin explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+(Didn't help?  Well, the [MXC FAQ](MDFiles/Handbook/M2_FAQ.md) is way easier to follow, we promise.)
 
 
 ## What is the MXProtocol?
