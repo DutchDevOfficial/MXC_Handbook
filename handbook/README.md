@@ -8,10 +8,10 @@
 
 ## Table of Contents
 - Handbook   
+    - [MXC FAQ](MDFiles/Handbook/M2_FAQ.md)
     - [MXC Overview](MDFiles/Handbook/handbook.md) 
     - [Miner Health](MDFiles/Handbook/miner_health.md)
     - [M2 Pro miner - User Guide](MDFiles/Handbook/manual.md)
-    - [Telegram FAQ](MDFiles/Handbook/M2_FAQ.md)
     - [MXC Background and Credentials](MDFiles/Handbook/anti_fud.md)
     - [DHX](MDFiles/Handbook/DHX.md)
     - ["Rep" (in Telegram)](MDFiles/Handbook/Rep.md)
