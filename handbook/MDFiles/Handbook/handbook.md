@@ -1,6 +1,6 @@
 # MXC Overview
 
-Hello there! Welcome to an MXC Overview in the MXC Handbook. This guide will provide an overview of MXC and also take you through most of the steps, questions and answers you need to get started.
+Hello there! Welcome to an *MXC Overview* in the MXC Handbook. This guide will provide an overview of MXC and MXC mining, and also take you through most of the steps, questions and answers you need to get started.
 
 Are you brand new to MXC and/or cryptocurrency? Consider checking out the [MXC FAQ](MDFiles/Handbook/M2_FAQ.md) first. Do you have specific questions? Try the Search bar available on this page/menu to search a term in the whole MXC Handbook.
 
