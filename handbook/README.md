@@ -17,7 +17,6 @@
     - ["Rep" (in Telegram)](MDFiles/Handbook/Rep.md)
     - [Gold Coins](MDFiles/Handbook/goldcoins.md)
     - [Videos](MDFiles/Handbook/videos.md)
-    - [DataDash App](MDFiles/Handbook/dd.md)
     - [Promo code](MDFiles/Handbook/promocode.md)
 
 - AMA Sessions ("Ask Me Anything")

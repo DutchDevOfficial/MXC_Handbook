@@ -1,17 +1,16 @@
 - Handbook   
-    - [Handbook](MDFiles/Handbook/handbook.md) 
-    - [Miner Health](MDFiles/Handbook/miner_health.md)  
-    - [Manual](MDFiles/Handbook/manual.md)
-    - [Telegram FAQ](MDFiles/Handbook/M2_FAQ.md)
-    - [Anti FUD](MDFiles/Handbook/anti_fud.md)
+    - [MXC FAQ](MDFiles/Handbook/M2_FAQ.md)
+    - [MXC Overview](MDFiles/Handbook/handbook.md) 
+    - [Miner Health](MDFiles/Handbook/miner_health.md)
+    - [M2 Pro miner - User Guide](MDFiles/Handbook/manual.md)
+    - [MXC Background and Credentials](MDFiles/Handbook/anti_fud.md)
     - [DHX](MDFiles/Handbook/DHX.md)
-    - [REP](MDFiles/Handbook/Rep.md)
+    - ["Rep" (in Telegram)](MDFiles/Handbook/Rep.md)
     - [Gold Coins](MDFiles/Handbook/goldcoins.md)
     - [Videos](MDFiles/Handbook/videos.md)
-    - [DataDash App](MDFiles/Handbook/dd.md)
     - [Promo code](MDFiles/Handbook/promocode.md)
 
-- AMA
+- AMA Sessions ("Ask Me Anything")
     - [AMA Procedure](MDFiles/AMA/AMA_Procedure.md)
     - [AMA's](MDFiles/AMA/AMA.md)
     - [Telegram AMA](MDFiles/AMA/TelegramAMA1.md)
@@ -22,8 +21,7 @@
 
 - Extra
     - [Help to build](MDFiles/Contact/contact.md)
-    - [Wall Of Fame](MDFiles/WallOfFame/main.md)
+    - [Wall of Fame](MDFiles/WallOfFame/main.md)
     - [Fix cache](MDFiles/Contact/cache.md)
     - [Contact](https://t.me/Dutchdev)
-
 
