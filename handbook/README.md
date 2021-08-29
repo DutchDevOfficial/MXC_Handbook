@@ -15,7 +15,6 @@
     - [MXC Background and Credentials](MDFiles/Handbook/anti_fud.md)
     - [DHX](MDFiles/Handbook/DHX.md)
     - ["Rep" (in Telegram)](MDFiles/Handbook/Rep.md)
-    - [Gold Coins](MDFiles/Handbook/goldcoins.md)
     - [Videos](MDFiles/Handbook/videos.md)
     - [Promo code](MDFiles/Handbook/promocode.md)
 
@@ -26,7 +25,6 @@
 
 - Community
     - [GIFS](MDFiles/WallOfFame/gifs.md)
-    - [M2 Pro stats](MDFiles/WallOfFame/m2prostats.md)
 
 - Extra
     - [Help to build](MDFiles/Contact/contact.md)
