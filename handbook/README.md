@@ -31,7 +31,6 @@
 - Extra
     - [Help to build](MDFiles/Contact/contact.md)
     - [Wall of Fame](MDFiles/WallOfFame/main.md)
-    - [Fix cache](MDFiles/Contact/cache.md)
     - [Contact](https://t.me/Dutchdev)
 
 # Who are we?
