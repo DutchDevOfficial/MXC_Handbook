@@ -41,12 +41,9 @@ We are **passionate MXC supporters** who strongly believe in the vision of MXC a
 This guide is made to the best of our ability. If you have any more detailed questions that this guide does not answer, feel free to ask in the [MXC Telegram supporter's group](https://t.me/mxcfoundation) or [MXC Discord](https://mxc.news/mxcdiscord) or on other social media. And you can also contact the [MXC Foundation](https://www.mxc.org/) directly itself. </i>
 
 # What is MXC?
-<!-- <div class="coinmarketcap-currency-widget" data-currencyid="3628" data-base="EUR" data-secondary="USD" data-ticker="true" data-rank="true" data-marketcap="true" data-volume="true" data-statsticker="true" data-stats="USD"></div> -->
 
 <script src="https://widgets.coingecko.com/coingecko-coin-ticker-widget.js"></script>
 <coingecko-coin-ticker-widget  coin-id="mxc" currency="usd" locale="en"></coingecko-coin-ticker-widget>
-
-<!-- <script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script> -->
 
 <iframe height="350" src="https://www.youtube.com/embed/7TYA6awG0j4" title="MXC coin explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -54,6 +51,4 @@ MXC is also a **global data network**, a network that is quickly spreading acros
 
 **MXC is a data token, a token that is covering the planet!**
 
-
 This MXC data token is also commonly referred to as an **Internet of Things (IoT) Token** designed **to help cities, companies, and individuals profit/benefit from building an LPWAN network**.
-
