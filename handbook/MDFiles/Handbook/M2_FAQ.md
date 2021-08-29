@@ -147,6 +147,9 @@ So the general rules of thumb when it comes to MXC and Fuel are: (1) You're free
 [More information](https://blog.mxc.org/miner-health)
 
 
+## Why did the MXC Foundation introduce Miner Health and Fuel?
+The MXC Foundation answered it best in their primary article on *Miner Health* available here: [blog.mxc.org/miner-health](https://blog.mxc.org/miner-health).
+
 ## Multi-token mining? What other crypto tokens or coins does the M2 Pro miner mine/earn?
 The M2 Pro is a multi-token miner, capable of mining the following:
 - [**MXC**](https://mxchandbook.org/#/MDFiles/Handbook/handbook?id=what-is-mxc)
