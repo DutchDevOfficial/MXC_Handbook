@@ -1,12 +1,13 @@
 # The MXC Handbook
 
-> Welcome to the MXC community project to get you started!
+> **Don't know where to start?** checkout: [MXC Overview](MDFiles/Handbook/handbook.md)   
 
-<iframe height="350" src="https://www.youtube.com/embed/sLjdkI5KRQo?start=73" title="Mxchandbook mention" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!-- The handbook mentioned in the MXC newsupdate!  -->
+<!-- <iframe height="350" src="https://www.youtube.com/embed/sLjdkI5KRQo?start=73" title="Mxchandbook mention" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
-**Don't know where to start?** checkout: [MXC Overview](MDFiles/Handbook/handbook.md)   
 
-## Table of Contents
+
+<!-- ## Table of Contents
 - Handbook   
     - [MXC FAQ](MDFiles/Handbook/M2_FAQ.md)
     - [MXC Overview](MDFiles/Handbook/handbook.md) 
@@ -29,7 +30,7 @@
 - Extra
     - [Help to build](MDFiles/Contact/contact.md)
     - [Wall of Fame](MDFiles/WallOfFame/main.md)
-    - [Contact](https://t.me/Dutchdev)
+    - [Contact](https://t.me/Dutchdev) -->
 
 # Who are we?
 We are **passionate MXC supporters** who strongly believe in the vision of MXC and the global rollout of the MXC Data Network. 
@@ -42,10 +43,10 @@ This guide is made to the best of our ability. If you have any more detailed que
 <script src="https://widgets.coingecko.com/coingecko-coin-ticker-widget.js"></script>
 <coingecko-coin-ticker-widget  coin-id="mxc" currency="usd" locale="en"></coingecko-coin-ticker-widget>
 
-<iframe height="350" src="https://www.youtube.com/embed/7TYA6awG0j4" title="MXC coin explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 MXC is also a **global data network**, a network that is quickly spreading across the globe. This global data network is being used to deliver data packets **more easily, across longer distances and faster than ever before**. Using LPWAN technology the MXC Foundation is promoting this global data network via the MXProtocol and the M2 Pro Miner. 
 
 **MXC is a data token, a token that is covering the planet!**
 
 This MXC data token is also commonly referred to as an **Internet of Things (IoT) Token** designed **to help cities, companies, and individuals profit/benefit from building an LPWAN network**.
+
+<iframe height="350" src="https://www.youtube.com/embed/7TYA6awG0j4" title="MXC coin explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
