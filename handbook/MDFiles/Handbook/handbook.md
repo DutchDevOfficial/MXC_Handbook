@@ -22,8 +22,8 @@ The **MXProtocal** is the protocol MXC (or MXC-enabled) IoT devices use to commu
 Mining MXC is extremely easy. One just needs to purchase the M2 Pro miner, download the *DataDash* app, connect the miner to the Internet, and MXC mining starts immediately. From user reports, each miner earns from $10 - $14 USD worth of MXC per day. The manufacturer of the M2 Pro miner is **MatchX**, located in Berlin, Germany, and the M2 Pro miner can be shipped worldwide. One can purchase the M2 Pro miner directly from MatchX (or on Amazon for a bit more). For more information and to purchase the M2 Pro miner from MatchX, use this link [www.matchx.io](https://matchx.io/pages/m2-pro-miner).
 (For a 50 euro discount at the matchx.io site, use **mxchandbook** as the Promo Code.)
 
-Also, check out this video to see how easy it is to setup!
-<iframe height="350" src="https://www.youtube.com/watch?v=aKNbnFIazfM" title="MatchX M2 Pro Miner Setup - Complete Tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!-- Also, check out this video to see how easy it is to setup!
+<iframe height="350" src="https://www.youtube.com/watch?v=aKNbnFIazfM" title="MatchX M2 Pro Miner Setup - Complete Tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
 For a deeper dive into M2 Pro earnings, please read this MXC Foundation article: [M2 Pro Miner Earnings and What's Next](https://medium.com/mxc/insider-report-how-to-improve-your-m2-pro-mining-earnings-whats-next-4569fc931ac4).
 
