@@ -1,267 +1,96 @@
-# AMA
+# **MXC AMAs (Ask Me Anything)**
 
-## 5/03/2021
+**AMA ("Ask Me Anything") sessions** are a great way for experts, leaders or people-in-the-know in a particular subject, project or endeavor, to share their knowledge to a large group of people, usually in an interactive setting. In the case of the MXC AMAs, these have been conducted in a variety of online formats, generally where one or more members from the MXC Team hosts and conducts the AMA, often with a guest.  MXC AMAs have been live and semi-live (questions in advance) -- and they have been held on video, audio-only, and sometimes in a chat-room by text only.  In the world of MXC, they first began in 2018, and more recently are being held weekly, monthly or ad-hoc as the need arises.
 
-### How does it work with sensors, are sensors from other producers compatible with the network or do sensors have to be from MXC in order to work? @Ab CD
+Though not an exhaustive list, below is a fairly complete list of all of the MXC AMAs that we have been able to find online, including transcripts where available. Special thanks go to MXC Community members [TavernSideGuides (TSG)](https://www.youtube.com/c/TavernSideGuides/videos), [Think A Bit (DrJoeKing)](https://www.youtube.com/channel/UCSZWqMJElhRPkX61HH7Ovnw/videos) and [LazyDroid](https://www.youtube.com/user/Thedo/videos) for recording many of these, and of course to MXC Team members [Jeff (TheMXCGuy)](https://twitter.com/JeffStahlnecker), [Siwon](https://twitter.com/ifyouc1), [Mo](https://twitter.com/mxcfoundation), [Kirill](https://twitter.com/kirill_krupin), [Piotr](https://twitter.com/Piotr_SB) and [Aaron](https://twitter.com/aaron_wagener) for holding and participating in these over the months and years. 
 
-M2 Pro utilizes LPWAN technology, namely LoRaWAN as a base for you all well-known MXProtocol. It means that all LoRaWAN compatible sensors/devices can be easily and seamlessly connected to the M2 Pro. Here at MatchX/MXC we believe in power of LoRaWAN technology alongside with MXProtocol. Already starting today, you can connect up to 100K LoRaWAN sensors to an M2 Pro and enjoy low-power IoT.
-﻿
-﻿Apart from it, we’re currently in talks with some manufacturers around the world, that are highly interested to start deploying MXProtocol in its devices on top of LoRaWAN. From moisture and temperature sensors to parking and human detection sensors!
+In recent months, many of these AMAs were held in the [MXC Discord](https://mxc.news/mxcdiscord) in the *#ama* audio channel. Nearly all of the below AMAs were published on YouTube by the MXC Team or Community Members, and in some cases, a list of topics with timestamps were provided to help with jumping to specific areas of interest:
 
-Those MXProtocol pimped-up sensors eventually will lead to additional earnings from your M2 Pro! 😎🤝
-<br><i>Kirill</i>
 
-### When will the bitcoin testnetwork open to everyone? (Date?) How does the bitcoin mining actually work? Thijs
+## AUGUST 2021
 
-First of all, thanks for the excellent question, Thijs !
+- [17-Aug-2021 - MXC Co-Founder Aaron Wagener Leads Discord AMA feat. Mo & TSG](https://www.youtube.com/watch?v=eG-LRYLSV2Y)
+  - [***Transcript available***](https://www.tavern.news/post/discord-ama-with-aaron-mo-and-tsg-august-17-2021)
 
-The DKP testnet is designed to last for around a month. That 1 month period is almost coming to an end. Once it ends, we will crunch the numbers and produce a report on it. After tweaking some parts to ensure that the mainnet is as stable as possible, it will be open to everyone. So that’s coming very soon
+- [06-Aug-2021 - [AMA] 1on1 with Mo: Device Provisioning (feat. Piotr)](https://www.youtube.com/watch?v=sGoTlvuoQZc)
 
-The Bitcoin mining aspect is fairly complex. The easiest answer is that since MXC is a parachain, it is free to accept other tokens on the MXProtocol - within the mining network. Thanks to the recent development in DeFi on predominantly ERC, transferring BTC on an ERC network is easier than before. This is how Bitcoin could be transferred on the MXProtocol. The mining aspect involves the testnet participating miners to act as individual nodes and leveraging its PoP heartbeat into mining for Bitcoin, but I won’t get into all the technical details because it will take far too long!
-<br><i>Siwon</i>
+- [03-Aug-2021 - MXC MatchX M2 Pro Discord AMA w/ Jeff - August 3rd](https://www.youtube.com/watch?v=m2j7Rw_QcYE)
 
-### Will the 4g antenna allow me to place my miner anywhere I want that would normally be hard to stretch an Ethernet cable to. Such as the top of a building or the top of a tree? @Mark mattheiss
 
-As you already might know, ALL your miners will be used as an **LPWAN umbrella**☔️ for millions of #IoT devices out there (many M2 Pro users already might have seen data packets in their DataDash), it means that the location of your M2 Pro will play a significant role, which eventually brings us to the question:
+## JULY 2021
 
-How can we set up our M2 Pro in the best possible position to ensure a decent coverage?
+- [27-Jul-2021 - MXC MatchX M2 Pro Discord AMA w/ Jeff - July 27th](https://www.youtube.com/watch?v=Q5pSKFQvdSM)
 
-And the LTE option is an answer for it! 📡
-﻿
-﻿Of course, you may say - what about the source of power? 
+- [20-Jul-2021 - MXC MatchX M2 Pro Discord AMA w/ Jeff - July 20th](https://www.youtube.com/watch?v=V1wdj0uMegU&t=56s)
 
-﻿MatchX is already investigating a solar panel addition to your M2 Pro. We were going to do some tests on that add-on,  this winter….but ever-grey Berlin didn’t provide with such an opportunity. So, I would say for our happy customers who live in sunny places, soon will be to upgrade their M2 Pro with a compact solar battery! 
+- [13-Jul-2021 - MXC MatchX M2 Pro Discord AMA w/ Jeff and Aaron July 13th](https://www.youtube.com/watch?v=dxmPNhQ2cQs)
 
-Solar panel + LTE = FULLY INDEPENDENCY AND ZERO EMISSIONS!   ☀️🤝🔋
+- [06-Jul-2021 - MXC MatchX M2 Pro Discord AMA w/ Jeff - July 6](https://www.youtube.com/watch?v=HPDGIqPXEoE)
 
-Is anyone from California here or Latin America? 😉
-<br><i>Kirill</i>
+- [02-Jul-2021 - [AMA] 1on1 with Mo: M2 Pro Logistics (feat. Kirill)](https://www.youtube.com/watch?v=ujdgLgOBG7g)
+  - [***Transcript available***](https://www.tavern.news/post/1-on-1-with-mo-shipping-logistics-ft-kirill)
 
-### Could you explain to be able to reference each time that is named in the tg group how the pop system works in the low power mining of BTC. The main misunderstanding is to believe that the power to mine comes exclusively from the sum of the hash power of the m2pro as if it were a powdered mining in the cloud. Thank you @j_wolfeng
 
-Oh wow, that's a very profound question!
+## JUNE 2021
 
-You’re right, it’s not the exclusive sum of the hash power. M2 Pro does not operate on a PoW model so there is no hash power to measure. The process involves looking at the PoP mining rate as participating miners would mine data blocks, and leveraging our parachain to convert the rewards within that data block into Bitcoin, and some tweak to essentially position each M2 Pro as an independent yet collaborative node that would bid to mine for Bitcoin dust. So the main aspect is the MXC parachain, not the hash rate.
+- [29-Jun-2021 - Lead MXC Tech Covers MXC NFTs, Beta Test, Device Provisioning and More in Latest Discord AMA w/ Jeff](https://www.youtube.com/watch?v=36DIy3sHaC0)
+  - [***Transcript & timestamps available***](https://www.tavern.news/post/discord-ama-with-jeff-29june-2021)
 
-I tried to simplify it a bit, but I'm not realising it's quite a big chunk of information! :D I'll of course take some opportunity later to talk more in detail about it (:
-<br><i>Siwon</i>
+- [22-Jun-2021 - MXC Head of Development (Jeff Stahlnacher) Discusses Miner Health, New Earnings Tracker and More AMA](https://www.youtube.com/watch?v=9ESWLgurGkU)
+  - [***Transcript & timestamps available***](https://www.tavern.news/post/informal-discord-ama-w-jeff-22-june-2021)
 
-### Please could you clarify for the benefit of holders and miners. The ongoing Das Keiser testnet trials has attracted people to this project but are miners actually hashing to mine the BTC rewards or are the BTC rewards a giveaway by MXC for participating in the network? @SilkOP001
+- [15-Jun-2021 - MXC MatchX M2 Pro Discord AMA w Jeff - June 15](https://www.youtube.com/watch?v=Vkz59ByA4KM)
 
-I think my previous answer already addresses this aspect. The only part in which direct giveaway by MXC is involved is that a portion of the BTC reward is subsidised by MXC. The technology is there, and it’s amazing what our parachain can do, and how the industry has evolved to be able to support this. The BTC rewards would be smaller without our subsidy. The reason for this subsidy is to keep it fair. The MXC earnings for miners at the moment are subsidised. So if we took that subsidy away just because the miners are now earning BTC, it wouldn’t be very fair. Thanks for the excellent question! (:
-<br><i>Siwon</i>
+- [11-Jun-2021 - [AMA] 1on1 with Mo: Miner Health, Fuel, and NFTs (feat. Siwon)](https://www.youtube.com/watch?v=Ob67bJjhGII)
+  - [***Transcript available***](https://www.tavern.news/post/1-on-1-with-mo-miner-health-fuel-nfts-ama-transcript-ft-mcx1-siwon)
 
-### I own 1 m2pro and several Helium Hotspots. Where does the big price difference come from? #Twitter
+- 04-Jun-2021 - Discord AMA w/ Jeff - *#tech-ama room* - Miner Health (*TEXT ONLY*) & Telegram AMA w/ Aaron - Miner Health (cont'd) (*TEXT ONLY*)
+     - [***Transcripts available***](https://www.tavern.news/post/transcript-title)
 
-Wow, wow things are getting serious here! 🙂
 
-I will try to keep it short and right to the point 😁👍
+## MAY 2021
 
-First things first, The M2 Pro is an outdoor miner with IP 66 standard (Ingress Protection Code) which means it's waterproof and it can be deployed outside and withstand the harshest weather conditions, even a thunderbolt strike (grounding on board). That drastically changes the durability of the miner and all possible use-cases that come out of it. 
+- [21-May-2021 - MXC AMA: Telegram 10K, Sneak Peek, and Giveaway! (feat. Aaron & Siwon)](https://www.youtube.com/watch?v=uZJDJ-C_riE)
 
-Secondly, - the range - only 8-10 M2 Pros can completely cover with LPWAN the city like Berlin and handle thousands of sensors/devices at the same time. 
 
-Thirdly, add-ons: which are - LTE module with a prepaid sim-card, Solar Panel and SSD storage - all these updates are coming soon! 
+- 07-May-2021 - Telegram AMA w Siwon (*TEXT ONLY*)
+  - [***Transcript available***](https://mxchandbook.org/#/MDFiles/AMA/TelegramAMA1)
 
-It will give you full independence from any wires or any drops in the internet connection (since SSD serves as a backup for all data that goes through your M2 Pro, meaning you don’t have to worry about every time when your miner for any reasons goes offline, all data packets will be stored on this SSD, therefore you won’t lose a single MXC token.
+- 03-May-2021 - Telegram AMA w Siwon (*TEXT ONLY*)
+  - [***Transcript available***](https://mxchandbook.org/#/MDFiles/AMA/TelegramAMA1#2021-05-03)
 
-And lastly, apart from hardware supremacy, Helium is simply built using Raspberry Pi solutions which are off the shelf and available anywhere. 
 
-The M2 Pro uses patented technology that isnt available elsewhere, these patents cost money and so does the extra effort that we put into our Miner, we built a german engineered miner, and we built it right. 🇩🇪✊
-<br><i>Kirill</i>
+## APRIL 2021
 
-### When $DOT mining + What should we be expecting in your partnership with Polkadot?
-Ah, a Polkadot question! I've been getting quite a few of those, so I'm glad it's here so everyone can see (: I'll try to keep it short!
-So when $DOT mining... 
+- [23-Apr-2021 - [LIVE] AMA: Everything about MXC and DHX (with Siwon Kim)](https://www.youtube.com/watch?v=OXa_k-3e-sk)
 
-We are waiting for Polkadot ecosystem to be a bit more stable than it is at the current state. Once that stability has been reached, we will roll out DOT mining.
-In terms of what everyone can expect...
-We have hinted at an alliance between Polkadot, Data Highway, and MXC. The partnership will definitely increase the level of MXC’s involvement within the Polkadot ecosystem. Data Highway will provide the necessary bridge between MXC and Polkadot!
-And of course, this will make MXC one of the big names in crypto 😉
-<br><i>Siwon</i>
 
-### Its there in the works a platform with all kind of functions (dashboard, monitoring, easy of use, etc) to handle the devices that in the future will connect to the most advance crypto/gateway of lorawan the m2 pro miner?
+## 2020
 
-Great question! And it refers to what is we're actually building here - the future of #IoT! 🔧Ⓜ️
+- [24-Dec-2020 - Last AMA of the Year feat. Aaron Wagener](https://www.youtube.com/watch?v=XjBI32a8Zgo)
 
-What you’re looking for is a Supernode Desktop app the platform that will be eventually a one-stop place for all your needs. Mining, Data Visualization, Miner’s usage, and statistics.
+- [05-Nov-2020 - [LIVE] MXC Combined AMA feat. Xin Hu, Aaron Wagener, Siwon Kim](https://www.youtube.com/watch?v=xEDG0FRcVDU)
 
-The Future is bright ☀️💡
-<br><i>Kirill</i>
+- [29-Sep-2020 - MXC AMA with Co-Founder Aaron Wagener [Part 2]](https://www.youtube.com/watch?v=YzYZjq4349s)
 
-### How can MXC contribute to crypto mass adoption in Africa when their Miner is quite expensive? #Twitter
+- [08-Sep-2020 - MXC AMA feat. Aaron Wagener, Co-Founder of MXC](https://www.youtube.com/watch?v=XCNv3KmMHK8)
 
-I believe Africa is an attractive blue ocean for data economy. I believe as a continent, Africa has the youngest median age with most of the population being very tech-savvy. It’s also a testing ground for many new technologies in consumer electronics. 
-So I don’t think the price of the miner is hindering mass adoption of crypto in Africa. Perhaps the miner is higher than an average person’s disposable income, but it also means that the profit realisation will be much higher in perceived value. 
-We need key partners in Africa who can work with us. So if you know someone or some company, please send them our way!
-<br><i>Siwon</i>
 
-### when a smartcity deal it’s made between mxc and a government about millions how that money is distribute for? guarantee network coverage, to develop a solution , part is for tokens, develop a plataforma could you explain how that works when we see milllions in a deal? #Twitter
+## 2019
 
-Ah, that's a pretty tricky question! But it really needs to be addressed! So an excellent one, too (:
+- [13-Jun-2019 - Live AMA with MXC Co-Founder Aaron Wagener](https://www.youtube.com/watch?v=hQVJbIKbQeA)
 
-The government grant is used to develop new technologies and expand the network coverage within that city. The grant also includes the government providing key connections to different corporations. For example, thanks to our partnership with the government in Hangzhou, we were able to establish stable contact and collaboration with Alibaba and Tencent.
+- [02-May-2019 - MXC AMA with MXC1 (feat. Everyone's Favorite!) *MAJOR ANNOUNCEMENT COMING*](https://www.youtube.com/watch?v=9_00W7vSuDA)
 
-A lot of people often think that when we receive millions of dollars from a government as part of a partnership, the money goes into “pumping” the token. If that was the case, it wouldn’t really be responsible usage of the funds. 
-However, that fund is used to create new streams that will bring returns to the token holders. That stream may not be as fast as most traders would want, but it is a concrete and wide stream. So you will see results of it as things unfold (:
-<br><i>Siwon</i>
+- [25-Apr-2019 - MXC AMA with MXC1 (Siwon, feat. Special Guest!)](https://www.youtube.com/watch?v=MoP127dgqNU)
 
-### Is there a place where I can see what improvements are brought with each firmware update of the M2Pro? My miners all out of date and I would like to know what I’m missing out @andresovela 
+- [18-Apr-2019 - MXC AMA with MXC1 (Siwon)](https://www.youtube.com/watch?v=25aje6VUQ7g)
 
-We all love our DataDash and how it woks! 
-But it doesn't mean we gonna stop with future developments! 
+- [11-Apr-2019 - MXC AMA with MXC1 (Siwon)](https://www.youtube.com/watch?v=3Ds1bOzHJ6A)
 
-Our DataDash is constantly evolving and getting more and more exciting features. 
 
-Things under current development:
+## 2018
 
-- Black mode @mattmarlow 😉
-- More information on the status of your miner
-- Improved interface 
-- Push notifications
-- Customization of your profile in the DataDash
-- Internal chat with M2 Pro mates around
-- Recent updates on MXC/MatchX achievements will be right in your app
+- [10-Aug-2018 - MXC (Machine eXchange Coin) ICO - Live AMA with COO Aaron Wagener](https://www.youtube.com/watch?v=4d7YEOGUiCk)
 
-More is yet to come! ✊
-
-And, please keep in mind that we’re here for you! All your suggestions and wishes will be taken into consideration to improve the user experience of the DataDash. 
-
-Don’t be shy! Only together we can build the #FutureOfIoT 〽️
-<br><i>Kirill</i>
-
-### What kind of sensor we could see in the short future, giving more details about things like ai that you have show in the past? any exciting sensor coming or partnership with big sensor company?
-Any #LoRAWAN compatible sensors can work with M2 Pro. Currently, our main focus is on AI Camera (here’s a link for the Devkit, it’s called EdgeX - https://www.matchx.io/edgexdevkit/#edgexdevkit). 
-
-The camera is made with the same philosophy in mind as the M2 Pro - Plug ‘n Play - it means that everyone will be able to set up this camera for their own purposes, simply by scanning the QR code and it will be connected to your DataDash account and M2 Pros around. 
-
-Just an example: you can set up your camera at the front of the door, the camera will be able to detect any human or wild animal presence nearby your property and send you push notifications right on your phone. 
-
-Other use-case which are already on its way:
-
-- Smart Parking
-- Vehicle/Human counting
-- More is coming!
-
-Advantages of this camera:
-
-- GDPR Compliant (no personal data is stored on any cloud), everything is processed on the edge!
-- Energy friendly - consumes just a bit of more energy that your M2 Pro
-- Solar Panel with a battery onboard for autonomous work, in case something happens with electricity.
-
-Moreover, there is some insider info for our fellow community members.
-
-In the next month, we’re going to receive the first unit of MatchX AI Camera!!! We will be doing some experiments with it here in Berlin and sharing the results with you!
-
-Stay tuned in for some sneak peeks 📸🧠
-<br><i>Kirill</i>
-
-### What are the advantages if the team decides to migrate to parachain platform? if difficult to switch if it decide would take several months?
-
-Ever since around 3 years ago when MXC started, we started as a parachain. So I don’t think migration to the parachain platform is the right word. We were always a parachain, before the parachain hype started. MXC is one of the most established parachain, because we had 3 years to build this. So once Polkadot is more stable, the integration of MXC parachain into Polkadot will be quite seamless. 
-The advantage of this would mainly be on the expansion of the MXC ecosystem, and therefore more widespread usage of MXProtocol, meaning more demand for $MXC 🔥🚀
-<br><i>Siwon</i>
-
-
-## [LIVE] AMA: Everything about MXC and DHX (with Siwon Kim)
-
-<iframe height="350" src="https://www.youtube.com/embed/OXa_k-3e-sk" title="[LIVE] AMA: Everything about MXC and DHX (with Siwon Kim)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-### RECAP by Keith 
-
-1️⃣ Das Kaiser Projekt II $BTC mining 
-Re-Launching in MAY
-
-2️⃣ MXC & Uniswap building DEX liquidity earnings possibility of earning up to  200% to 250% .... more ways to earn from MXC
-
-3️⃣ MXC miner long term business model
-MXC working to be bear market proof!
-The business plan is to have miners first earn tokens, as their earnings reduce over time, MXC miners / supporters will have increased ways to participate and EARN even more
-Eg: 
-👉staking to earn more MXC
-
-👉Bonding to earn $DHX
-
-👉Staking on DEX liquidity earnings up to 250% on Uniswap
-
-MXC mining will ensure long-tail earnings for MXC hodlers 
-
-
-
-4️⃣ MXC working with electric car company on LPWAN Data transmission tests
-
-# [LIVE] AMA: Telegram 10K, Sneak Peek, and Giveaway! (feat. Aaron & Siwon)
-
-<iframe height="350" src="https://www.youtube.com/embed/uZJDJ-C_riE" title="[LIVE] AMA: Telegram 10K, Sneak Peek, and Giveaway! (feat. Aaron & Siwon)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-(Awesome shoutout to the handbook: https://youtu.be/uZJDJ-C_riE?t=4135! )
-
-💥💥💥💥💥MXC AMA - RECAP by Keith!!!!!!💥💥💥💥💥
-
-AMA TAKEAWAY #1 🗣💥💰🙌
-
-Das Kaiser Projekt II - DKPII - Sign-Up List will open 
-Tuesday 25th May. For 10 Days! Allowing all new miners to apply!
-
-Mining $BTC with the M2 PRO ‼️
-
-AMA TAKEAWAY #2 🦄🔁💰🙌
-
-Uniswap development update next week - integrating MXC earnings into the DataDash App to
-increase your M2 Pro returns even more! 🤑
-
-AMA TAKEAWAY #3 💊🔬💰🎉
-
-M2 Pro Health - concerns about the $10 - $14 base disappearing is a choice the MXC team is leaving up to Miners. 
-There will be increase Participative models brought, allowing everyone to continue to receive their base Mining. Ⓜ️⛏ You will still earn the base by doing nothing 😄
-This health will be brought in very, very slowly to ensure everyone understands how it works. It's expected to be a process over many months, MXC CO-Founder Aaron Wagener "It's giving the power back to our Mining community, allowing them to decide how long they extend base earnings"
-
-AMA TAKEAWAY #4 🙂➡️😁💰💰
-
-REFER-A-FRIEND is coming! The team is preparing to launch a refer a friend campaign next week! Where both you and your friend will earn for bringing people to the MXC Mining Movement! 🤜💥🤛
-
-
-# Technical AMA with Jeff (mainly miner fuel)
-Takeaways by Keith!
-
-
-#### MXC AMA TAKEAWAY 1 
-*MINER HEALTH* is the next step in the interchain data market for the MXC Movement.📢🔆
-By improving the participation on this level MXC and our Mining community will take blockchain and IoT to the mainstream!
-This is expected to take the MXC token to the next level  🚀 as a token movement on the crypto charts 🌝
-
-
-####  MXC AMA TAKEAWAY 2
-
-Miner health is an **extension** of POP, to keep everyone participating, and earning rewards 🔑 
-The key area for Miners to focus on is to ensure connectivity, uptime is essential!
-🔆🔱
-miner health is expected to extend the base rewards, ensuring more Can mine their base and other ways for longer 
-✅
-
-
-####  MXC AMA TAKEAWAY 3
-
-**MXC is always on your side** 🤝 
-M2 Pro Miner Health won't happen overnight, it's going to be rolled out over a period of time. With just the first two items being released first. There will be no surprises on this. We want you to keep earning 💥🚀💪
-
-
-#### Statement by Aaron in the TG afterwards
-- Your base mining will continue to mine and earn and in fact with miner health it will in fact **EXTEND** the base earnings
-- We will be rolling out **MORE** ways to earn including the Liquidity Markets and DFi (you will need a high amount of MTL to get high returns)
-- We are preparing for the next phase of POP, this will make **the network more robust**, allowing for MXC to build a sustainable network that can also monetise the new sensors coming on to the market thanks to our friends at Amazon who are also pushing LORA / LPWAN
-
-*IoT has an amazing future, with Amazon also coming onboard to LPWAN its proof that all of us, right here are heading in the right direction. We want all of you to continue to earn, because we want this robust network, so we designed a method to ensure you continue to earn*
-
-
-# 1on1 with Mo: Miner Health, Fuel, and NFTs (feat. MXC1)
-
-<iframe height="350" src="https://www.youtube.com/embed/Ob67bJjhGII" title="[AMA] 1on1 with Mo: Miner Health, Fuel, and NFTs (feat. MXC1)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-#### Miner health
-
-Proximity - 7%
-Reliability - 20%
-GPS - 10% 
-Altitude - 5%
-Miner Fuel - The rest
+- [09-Aug-2018 - MXC - Machine eXchange Coin Interview/AMA with Aaron Wagener](https://www.youtube.com/watch?v=jDpSULCFt_s)
