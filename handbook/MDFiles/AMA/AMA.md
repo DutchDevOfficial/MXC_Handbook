@@ -4,13 +4,13 @@
 
 Though not an exhaustive list, below is a fairly complete list of all of the MXC AMAs that we have been able to find online, including transcripts where available. Special thanks go to MXC Community members [TavernSideGuides (TSG)](https://www.youtube.com/c/TavernSideGuides/videos), [Think A Bit (DrJoeKing)](https://www.youtube.com/channel/UCSZWqMJElhRPkX61HH7Ovnw/videos) and [LazyDroid](https://www.youtube.com/user/Thedo/videos) for recording many of these, and of course to MXC Team members [Jeff (TheMXCGuy)](https://twitter.com/JeffStahlnecker), [Siwon](https://twitter.com/ifyouc1), [Mo](https://twitter.com/mxcfoundation), [Kirill](https://twitter.com/kirill_krupin), [Piotr](https://twitter.com/Piotr_SB) and [Aaron](https://twitter.com/aaron_wagener) for holding and participating in these over the months and years. 
 
-In recent months, many of these AMAs were held in the [MXC Discord](https://mxc.news/mxcdiscord) in the *#ama* audio channel. Nearly all of the below AMAs were published on YouTube, and in some cases, a list of topics with timestamps were provided to help with jumping to specific areas of interest:
+In recent months, many of these AMAs were held in the [MXC Discord](https://mxc.news/mxcdiscord) in the *#ama* audio channel. Nearly all of the below AMAs were published on YouTube by the MXC Team or Community Members, and in some cases, a list of topics with timestamps were provided to help with jumping to specific areas of interest:
 
 
 ## AUGUST 2021
 
 - [17-Aug-2021 - MXC Co-Founder Aaron Wagener Leads Discord AMA feat. Mo & TSG](https://www.youtube.com/watch?v=eG-LRYLSV2Y)
-  - [***Transcript & timestamps available***](https://www.tavern.news/post/discord-ama-with-aaron-mo-and-tsg-august-17-2021)
+  - [***Transcript available***](https://www.tavern.news/post/discord-ama-with-aaron-mo-and-tsg-august-17-2021)
 
 - [06-Aug-2021 - [AMA] 1on1 with Mo: Device Provisioning (feat. Piotr)](https://www.youtube.com/watch?v=sGoTlvuoQZc)
 
@@ -28,7 +28,7 @@ In recent months, many of these AMAs were held in the [MXC Discord](https://mxc.
 - [06-Jul-2021 - MXC MatchX M2 Pro Discord AMA w/ Jeff - July 6](https://www.youtube.com/watch?v=HPDGIqPXEoE)
 
 - [02-Jul-2021 - [AMA] 1on1 with Mo: M2 Pro Logistics (feat. Kirill)](https://www.youtube.com/watch?v=ujdgLgOBG7g)
-  - [***Transcript & timestamps available***](https://www.tavern.news/post/1-on-1-with-mo-shipping-logistics-ft-kirill)
+  - [***Transcript available***](https://www.tavern.news/post/1-on-1-with-mo-shipping-logistics-ft-kirill)
 
 
 ## JUNE 2021
@@ -42,7 +42,7 @@ In recent months, many of these AMAs were held in the [MXC Discord](https://mxc.
 - [15-Jun-2021 - MXC MatchX M2 Pro Discord AMA w Jeff - June 15](https://www.youtube.com/watch?v=Vkz59ByA4KM)
 
 - [11-Jun-2021 - [AMA] 1on1 with Mo: Miner Health, Fuel, and NFTs (feat. Siwon)](https://www.youtube.com/watch?v=Ob67bJjhGII)
-  - [***Transcript & timestamps available***](https://www.tavern.news/post/1-on-1-with-mo-miner-health-fuel-nfts-ama-transcript-ft-mcx1-siwon)
+  - [***Transcript available***](https://www.tavern.news/post/1-on-1-with-mo-miner-health-fuel-nfts-ama-transcript-ft-mcx1-siwon)
 
 - 04-Jun-2021 - Discord AMA w/ Jeff - *#tech-ama room* - Miner Health (*TEXT ONLY*) & Telegram AMA w/ Aaron - Miner Health (cont'd) (*TEXT ONLY*)
      - [***Transcripts available***](https://www.tavern.news/post/transcript-title)
