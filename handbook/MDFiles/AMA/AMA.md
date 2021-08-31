@@ -53,8 +53,11 @@ In recent months, many of these AMAs were held in the [MXC Discord](https://mxc.
 - [21-May-2021 - MXC AMA: Telegram 10K, Sneak Peek, and Giveaway! (feat. Aaron & Siwon)](https://www.youtube.com/watch?v=uZJDJ-C_riE)
 
 
-- [07-May-2021 - Telegram AMA w Siwon (*TEXT ONLY*)]
+- 07-May-2021 - Telegram AMA w Siwon (*TEXT ONLY*)
   - [***Transcript available***](https://mxchandbook.org/#/MDFiles/AMA/TelegramAMA1)
+
+- 03-May-2021 - Telegram AMA w Siwon (*TEXT ONLY*)
+  - [***Transcript available***](https://mxchandbook.org/#/MDFiles/AMA/TelegramAMA1#2021-05-03)
 
 
 ## APRIL 2021
