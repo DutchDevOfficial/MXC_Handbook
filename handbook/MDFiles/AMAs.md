@@ -54,10 +54,10 @@ In recent months, many of these AMAs were held in the [MXC Discord](https://mxc.
 
 
 - 07-May-2021 - Telegram AMA w Siwon (*TEXT ONLY*)
-  - [***Transcript available***](https://mxchandbook.org/#/MDFiles/AMA/TelegramAMA1)
+  - [***Transcript available***](MDFiles/TelegramAma.md)
 
 - 03-May-2021 - Telegram AMA w Siwon (*TEXT ONLY*)
-  - [***Transcript available***](https://mxchandbook.org/#/MDFiles/AMA/TelegramAMA1#2021-05-03)
+  - [***Transcript available***](MDFiles/TelegramAma.md#2021-05-03)
 
 
 ## APRIL 2021

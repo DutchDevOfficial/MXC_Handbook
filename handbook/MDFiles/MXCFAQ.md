@@ -44,11 +44,11 @@ Yes, see [MXCMapper.com](http://mxcmapper.com). Please note that the Blue Dots o
 
 
 ## Will I earn more if I own more than one M2 Pro miner?
-Yes, for MXC mining, you will earn double the MXC if you own two miners, triple if you own three, etc. There is no limit on how many M2 Pro miners you can own and setup, however placement of miners will impact daily earnings in the future (see next questions, and the [**Miner Health**](https://mxchandbook.org/#/MDFiles/Handbook/M2_FAQ?id=What-is-Miner-Health) section below, for more details).
+Yes, for MXC mining, you will earn double the MXC if you own two miners, triple if you own three, etc. There is no limit on how many M2 Pro miners you can own and setup, however placement of miners will impact daily earnings in the future (see next questions, and the [**Miner Health**](MDFiles/MXCFAQ.md?id=What-is-Miner-Health) section below, for more details).
 
 
 ## Can multiple M2 Pro miners be setup right next to each other, without affecting earnings?
-At the time of writing, yes. However, in the months ahead, there will be up to a 7% reduction in MXC earnings (per miner) if the miners are less than 50 meters (about 164 feet) from each other. Additionally, there are other factors that miners should be aware of, which can impact earnings now and in the future. Please see the [**Miner Health**](https://mxchandbook.org/#/MDFiles/Handbook/M2_FAQ?id=What-is-Miner-Health) section below. 
+At the time of writing, yes. However, in the months ahead, there will be up to a 7% reduction in MXC earnings (per miner) if the miners are less than 50 meters (about 164 feet) from each other. Additionally, there are other factors that miners should be aware of, which can impact earnings now and in the future. Please see the [**Miner Health**](MDFiles/MXCFAQ.md?id=What-is-Miner-Health) section below. 
 
 [More information](https://blog.mxc.org/miner-health)
 
@@ -78,7 +78,7 @@ Yes, the M2 Pro's housing is [IP-66](https://en.wikipedia.org/wiki/IP_Code) rate
 
 
 ## Can the M2 Pro miner be moved for free?
-Yes, there is no cost to move the M2 Pro miner. Additionally, the M2 Pro miner is **mobile**.  Your M2 Pro miner could even mine MXC from your car, if you have an internet connection and power in your car.  You do need to keep your M2 Pro in the same country (or at least in a country which uses the same LoRaWAN frequencies).  And keep in mind that future *Miner Health* factors (such as keeping it upright) might impact earnings down the road (see [Miner Health](https://mxchandbook.org/#/MDFiles/Handbook/M2_FAQ?id=What-is-Miner-Health) section below).
+Yes, there is no cost to move the M2 Pro miner. Additionally, the M2 Pro miner is **mobile**.  Your M2 Pro miner could even mine MXC from your car, if you have an internet connection and power in your car.  You do need to keep your M2 Pro in the same country (or at least in a country which uses the same LoRaWAN frequencies).  And keep in mind that future *Miner Health* factors (such as keeping it upright) might impact earnings down the road (see [Miner Health](MDFiles/MXCFAQ.md?id=What-is-Miner-Health) section below).
 
 
 ## When I order the M2 Pro miner, do I need to tell MatchX which LoRaWAN frequency to use? How will they know?
@@ -152,8 +152,8 @@ The MXC Foundation answered it best in their primary article on *Miner Health* a
 
 ## Multi-token mining? What other crypto tokens or coins does the M2 Pro miner mine/earn?
 The M2 Pro is a multi-token miner, capable of mining the following:
-- [**MXC**](https://mxchandbook.org/#/MDFiles/Handbook/handbook?id=what-is-mxc)
-- [**DHX**](MDFiles/Handbook/DHX.md)  (DataHighway tokens, mined from DataDash, with the M2 Pro giving a boost)
+- [**MXC**](MDFiles/MXCOverview.md?id=what-is-mxc)
+- [**DHX**](MDFiles/DHX.md)  (DataHighway tokens, mined from DataDash, with the M2 Pro giving a boost)
 - **BTC**     (Bitcoin, currently in [testnet](https://medium.com/mxc/dkp-ii-testnet-critical-analysis-future-insights-390a6fa2183e) phase)
 - *DOT      (Polkadot tokens, in planning and development)*
 
@@ -224,7 +224,7 @@ BTC (Bitcoin) mining with the M2 Pro miner is currently in a testnet phase, with
 
 ## Where can I get more information about MXC and the M2 Pro and/or ask questions?
 
-To get more information about MXC and the M2 Pro, you might first want to continue reading this Handbook, starting with the [MXC Overview section](https://mxchandbook.org/#/MDFiles/Handbook/handbook).
+To get more information about MXC and the M2 Pro, you might first want to continue reading this Handbook, starting with the [MXC Overview section](MDFiles/MXCOverview.md).
 
 Beyond the Handbook, here are a few other resources that might be helpful, especially if you'd like to ask live questions of the community or MXC itself:
 

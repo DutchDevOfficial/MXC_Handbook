@@ -8,7 +8,7 @@
 - By the community for the community
 - All in one
 
-[AMA](/MDFiles/AMA/AMA)
-[Handbook](/MDFiles/Handbook/handbook)
+[AMA](/MDFiles/AMAs.md)
+[Handbook](/MDFiles/handbook.md)
 
 
