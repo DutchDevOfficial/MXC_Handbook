@@ -8,14 +8,14 @@
     - [🤑 Promo code 🤑](MDFiles/Handbook/promocode.md)
 
 - AMA Sessions ("Ask Me Anything")
-    - [AMA's](MDFiles/AMA/AMA.md)
-    - [Telegram AMA](MDFiles/AMA/TelegramAMA1.md)
+    - [AMA's](MDFiles/AMAs.md)
+    - [Telegram AMA](MDFiles/TelegramAma.md)
 
 - DHX (DataHighway)
     - [DHX](MDFiles/Handbook/DHX.md)
 
 - Community
-    - [🏗️ Help to build](MDFiles/Contact/contact.md)
-    - [⭐ Wall of Fame](MDFiles/WallOfFame/main.md)
+    - [🏗️ Help to build](MDFiles/HelpToBuild.md)
+    - [⭐ Wall of Fame](MDFiles/WallOfFame.md)
     - [📇 Contact](https://t.me/Dutchdev)
 
