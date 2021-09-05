@@ -7,7 +7,7 @@ These are the MXC Community's Most *Frequently Asked Questions* (FAQ), taken fro
 ##
 
 ## How do I mine MXC?
-One just needs to purchase the [M2 Pro miner](https://www.matchx.io/product/m2-pro-lpwan-crypto-miner/), download the [DataDash](https://www.mxc.org/mxcdatadash) app (for your [iPhone](https://apps.apple.com/app/id1509218470) or [Android](https://play.google.com/store/apps/details?id=com.mxc.smartcity) phone), connect the miner to the Internet, and MXC mining starts immediately.
+One just needs to purchase the [M2 Pro miner](https://www.matchx.io/product/m2-pro-lpwan-crypto-miner/) (using Promo Code: **mxchandbook** will provide a 50 euro discount.), download the [DataDash](https://www.mxc.org/mxcdatadash) app (for your [iPhone](https://apps.apple.com/app/id1509218470) or [Android](https://play.google.com/store/apps/details?id=com.mxc.smartcity) phone), connect the miner to the Internet, and MXC mining starts immediately.
 
 
 ## How much does the M2 Pro miner earn?
@@ -21,7 +21,6 @@ The M2 Pro miner is 2,500 euros (about $3,000 USD), if purchased from the manufa
 
 
 ## Who manufactures the M2 Pro?
-
 [**MatchX**](http://matchx.io) is the manufacturer, based in Berlin, Germany.
 
 [More information at MatchX.io](http://matchx.io)

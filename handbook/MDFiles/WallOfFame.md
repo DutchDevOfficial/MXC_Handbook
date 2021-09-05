@@ -11,5 +11,5 @@ Everyone who helped this project reach its current state will be thanked in this
 * [Tavern Side Gaming](https://t.me/TavernSideGaming)
 
 **Contribution**
-* [Brian Allan](https://t.me/BrinerMiner) (http://www.mxcfaq.com)
-* [Monok](https://t.me/Monok) (Italian Translation)
+* [⭐⭐ Brian Allan](https://t.me/BrinerMiner) (http://www.mxcfaq.com)
+* [⭐ Monok](https://t.me/Monok) (Italian Translation)

@@ -1,7 +1,6 @@
 - Main Topics   
     - [📚 MXC Overview](MDFiles/MXCOverview.md) 
     - [❓ MXC FAQ](MDFiles/MXCFAQ.md)
-    - [Miner Health](MDFiles/MinerHealth.md)
     - [M2 Pro miner - User Guide](MDFiles/M2ProMiner_UserGuide.md)
     - [MXC Background and Credentials](MDFiles/MXCBackgroundAndCredentials.md)
     - ["Rep" (in Telegram)](MDFiles/Rep.md)
