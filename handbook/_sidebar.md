@@ -11,7 +11,7 @@
     - [Telegram AMA](MDFiles/TelegramAma.md)
 
 - DHX (DataHighway)
-    - [DHX](MDFiles/Handbook/DHX.md)
+    - [DHX](MDFiles/DHX.md)
 
 - Community
     - [🏗️ Help to build](MDFiles/HelpToBuild.md)
