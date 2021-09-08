@@ -1,6 +1,6 @@
 # The MXC Handbook
 
-> **Don't know where to start?** checkout: [MXC Overview](MDFiles/Handbook/handbook.md)   
+> **Don't know where to start?** checkout: [MXC Overview](MDFiles/MXCFAQ.md)   
 
 <!-- The handbook mentioned in the MXC newsupdate!  -->
 <!-- <iframe height="350" src="https://www.youtube.com/embed/sLjdkI5KRQo?start=73" title="Mxchandbook mention" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
