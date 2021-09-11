@@ -1,5 +1,6 @@
 # M2 Pro Miner Health: Decentralized Mining At Its Best
-
+*(Taken from an MXC Foundation [article](https://medium.com/mxc/m2-pro-miner-health-decentralized-mining-at-its-best-b4d42ff26a23) of the same name, dated 10-August-2021.)*
+#
 Since its inception, MXC has focused on developing and formulating the next big step in Blockchain technology, strengthening our massive global network whilst increasing decentralization and securing the returns of tens of thousands of participants within the MXC network. Furthermore, to extend the longevity of Miner returns, for those who are actively contributing to the global expansion of the MXProtocol, MXC has delivered a brand new concept called; Miner Health, an interactive user-focused model, allowing miners, for the very first time, to choose their own mining rate, as they please, this is new-age mining, decentralized.
 
 
@@ -58,4 +59,4 @@ And. . . we’ve only just begun to reward our Mining community; there’s still
 *For further information, media requests or comment, please MXC can be contacted directly at hello@mxc.org or via the www.mxc.org website.*
 
 
-*source: https://medium.com/mxc/m2-pro-miner-health-decentralized-mining-at-its-best-b4d42ff26a23*
+*Source: https://medium.com/mxc/m2-pro-miner-health-decentralized-mining-at-its-best-b4d42ff26a23*
