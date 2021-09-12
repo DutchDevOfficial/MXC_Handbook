@@ -24,25 +24,16 @@ This guide is made to the best of our ability. If you have any further more deta
 # ⭐ Wall of fame
 Published version: [Wall of fame](https://mxchandbook.org/#/MDFiles/WallOfFame/main)
 
-### Creator
-Joseph | DutchDev
+Everyone who helped this project reach its current state will be thanked in this list.
 
-### Feedback
-Kirill | MatchX
+**Contribution**
+* [⭐⭐ Brian Allan](https://t.me/BrinerMiner) (http://www.mxcfaq.com)
+* [⭐ Monok](https://t.me/Monok) (Italian Translation)
 
-Keith | MXC.org
-
-Wille_Willson
-
-WM
-
-PHAN
-
-Tavern Side Gaming
-
-
-### Contribution
-Brian Allan (http://www.mxcfaq.com)
-            (http://dhxmining.com)
-
-Monok (Italian Translation)
+**Feedback**
+* [Kirill | MatchX](https://discordapp.com/users/577804846179024896/)
+* [Keith | MXC.org](https://t.me/CryptoKeith)
+* [Wille_Willson](https://t.me/Wille_Willson)
+* [WM](https://t.me/wiseoldman)
+* [PHAN](https://t.me/PHANzgz)
+* [Tavern Side Gaming](https://t.me/TavernSideGaming)
