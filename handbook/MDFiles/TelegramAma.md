@@ -58,9 +58,7 @@ So that's kind of the "next level" thing*
 *I think we will be one of the first alts that offer completely one-sided liquidity yield farming (so that you can stake your MXC and the other side is matched through the DeFi world)*
 
 
-# 2021-05-03
-
-## Telegram AMA w Siwon - 3-May-2021
+# Telegram AMA w Siwon - 3-May-2021
 
 How does it work with sensors, are sensors from other producers compatible with the network or do sensors have to be from MXC in order to work? @Ab CD
 
