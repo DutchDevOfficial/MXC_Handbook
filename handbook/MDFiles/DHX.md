@@ -84,12 +84,12 @@ Yes, in the DataDash app, under the DHX Mining Tutorial, this diagram does a goo
 Yes, in the Telegram and Discord groups:
 
 - **Telegram:** 
-  - [DHX (DataHighway) Group]()
+  - [DHX (DataHighway) Group](https://t.me/datahighway)
   - [MXC Group *(most active)*](https://t.me/mxcfoundation)
 
 - **Discord:**
-  - [DHX (DataHighway) Group]()
-  - [MXC Group *(most active)*]()
+  - [DHX (DataHighway) Group](https://discord.gg/MKwMwEBa)
+  - [MXC Group *(most active)*](https://discord.gg/C7p4d7cS)
 
 ## Is there an official DHX/DataHighway website or an MXC website?
 Yes, they are as follows:
