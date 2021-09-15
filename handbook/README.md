@@ -11,7 +11,7 @@
 - [MXC Overview](MDFiles/MXCOverview)
 - [How do I mine MXC?](MDFiles/MXCFAQ?id=how-do-i-mine-mxc)
 - [Miner Health](MDFiles/MXCFAQ?id=what-is-miner-health)
-- [Bitcoin Mining](MXCFAQ?id=how-is-it-possible-to-mine-btc-with-the-m2-pro)
+- [Bitcoin Mining](MDFiles/MXCFAQ?id=how-is-it-possible-to-mine-btc-with-the-m2-pro)
 - [DHX Mining](MDFiles/DHX)
 
 #
