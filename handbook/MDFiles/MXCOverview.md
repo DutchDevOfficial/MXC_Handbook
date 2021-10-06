@@ -27,7 +27,7 @@ Mining MXC is extremely easy. One just needs to purchase the M2 Pro miner, downl
 
 For a deeper dive into M2 Pro earnings, please read this MXC Foundation article: [M2 Pro Miner Earnings and What's Next](https://medium.com/mxc/insider-report-how-to-improve-your-m2-pro-mining-earnings-whats-next-4569fc931ac4).
 
-Shipping times for the M2 Pro do vary, depending on locations and warehouse inventory, and have ranged from 2 - 10 weeks in 2021. Please ask in the [MXC Telegram](http://t.me/mxcfoundation) group to get the latest shipping times for your area, or look in the *#shipping* room in the [MXC Discord](jttps://mxc.news/mxcdiscord) group for up-to-date reports from users. 
+Shipping times for the M2 Pro do vary, depending on locations and warehouse inventory, and have ranged from 2 - 10 weeks in 2021 (at time of writing, shipping times are currently running 2-4 weeks, or better, worldwide). Please ask in the [MXC Telegram](http://t.me/mxcfoundation) group to get the latest shipping times for your area, or look in the *#shipping* room in the [MXC Discord](jttps://mxc.news/mxcdiscord) group for up-to-date reports from users. 
 
 ## What is Miner Health?
 *Miner Health* is the way to keep track of your M2 Pro miner's optimal MXC earning potential, in the DataDash app. Currently, by just keeping your M2 Pro:
