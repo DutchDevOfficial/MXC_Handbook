@@ -2,9 +2,15 @@
 
 **AMA ("Ask Me Anything") sessions** are a great way for experts, leaders or people-in-the-know in a particular subject, project or endeavor, to share their knowledge to a large group of people, usually in an interactive setting. In the case of the MXC AMAs, these have been conducted in a variety of online formats, generally where one or more members from the MXC Team hosts and conducts the AMA, often with a guest.  MXC AMAs have been live and semi-live (questions in advance) -- and they have been held on video, audio-only, and sometimes in a chat-room by text only.  In the world of MXC, they first began in 2018, and more recently are being held weekly, monthly or ad-hoc as the need arises.
 
-Though not an exhaustive list, below is a fairly complete list of all of the MXC AMAs that we have been able to find online, including transcripts where available. Special thanks go to MXC Community members [TavernSideGuides (TSG)](https://www.youtube.com/c/TavernSideGuides/videos), [Think A Bit (DrJoeKing)](https://www.youtube.com/channel/UCSZWqMJElhRPkX61HH7Ovnw/videos) and [LazyDroid](https://www.youtube.com/user/Thedo/videos) for recording many of these, and of course to MXC Team members [Jeff (TheMXCGuy)](https://twitter.com/JeffStahlnecker), [Siwon](https://twitter.com/ifyouc1), [Mo](https://twitter.com/mxcfoundation), [Kirill](https://twitter.com/kirill_krupin), [Piotr](https://twitter.com/Piotr_SB) and [Aaron](https://twitter.com/aaron_wagener) for holding and participating in these over the months and years. 
+Though not an exhaustive list, below is a fairly complete list of all of the MXC AMAs that we have been able to find online, including transcripts where available. Special thanks go to MXC Community members [TavernSideGuides (TSG)](https://www.youtube.com/c/TavernSideGuides/videos), [Think A Bit (DrJoeKing)](https://www.youtube.com/channel/UCSZWqMJElhRPkX61HH7Ovnw/videos), [LazyDroid](https://www.youtube.com/user/Thedo/videos) and [Informal Crypto](https://www.youtube.com/c/InformalCrypto) for recording many of these, and of course to MXC Team members, old and new, [Siwon](https://twitter.com/ifyouc1), [Mo](https://twitter.com/mxcfoundation), Jeff (TheMXCGuy), [Kirill](https://twitter.com/kirill_krupin), [Piotr](https://twitter.com/Piotr_SB) and [Aaron](https://twitter.com/aaron_wagener) for holding and participating in these over the months and years. 
 
-In recent months, many of these AMAs were held in the [MXC Discord](https://mxc.news/mxcdiscord) in the *#ama* audio channel. Nearly all of the below AMAs were published on YouTube by the MXC Team or Community Members, and in some cases, a list of topics with timestamps were provided to help with jumping to specific areas of interest:
+In recent months, many of these AMAs were held in the [MXC Discord](https://mxc.news/mxcdiscord) in the *#ama* audio channel. Nearly all of the below AMAs were published on YouTube by the MXC Team or Community Members, and in some cases, a transcript and/or list of topics with timestamps were provided to help with jumping to specific areas of interest:
+
+
+## OCTOBER 2021
+
+- [05-Oct-2021 - MXC AMA with Aaron Wagener, COO and Sheen Xin Hu, CEO - 10/5/21 | Informal Crypto](https://www.youtube.com/watch?v=rKxE7cKOEzQ)
+  - [***Timestamps available***](https://www.youtube.com/watch?v=rKxE7cKOEzQ)
 
 
 ## AUGUST 2021
