@@ -27,19 +27,19 @@ The M2 Pro miner is 2,500 euros (about $3,000 USD), if purchased from the manufa
 
 
 ## How long does it take to get the M2 Pro miner?
-At the time of writing, the M2 Pro miner is being shipped from MatchX in about 2-4 weeks (in the European area), and around 6-8 weeks in North America and other parts of the world. MatchX has multiple warehouses around the world, including Europe, North America, Asia and elsewhere, from which M2 Pro miners are shipped.
-
-
-## Does the M2 Pro use a lot of electricity or internet bandwidth?
-No, the M2 Pro uses less than the average household light bulb of electricity per day, and data usage has been reported to be about 500-800 MB per month or less.
-
-[More information](https://cdn.shopify.com/s/files/1/0565/1323/3091/files/M2_Pro_One-pager-ENG.pdf?v=1619529247)
+At the time of writing, the M2 Pro miner is being shipped from MatchX to most parts of the world in about 2-4 weeks (or better). MatchX has multiple warehouses around the world, including Europe, North America, Asia and elsewhere, from which M2 Pro miners are shipped.
 
 
 ## Is there a map which shows where all the M2 Pro miners are in the world?
 Yes, see [MXCMapper.com](http://mxcmapper.com). Please note that the Blue Dots on this map are the M2 Pro miners, and the Gray Dots are generic [LoRaWAN](https://lora-alliance.org/about-lorawan/) devices which do not do any mining but are an indication of where future earnings might come from. Also please note that the exact locations of these miners and devices are not given on the map, but only a rough estimate, for privacy and security reasons.  The M2 Pros on the map are generally updated manually every week or two.
 
 [More information](https://medium.com/mxc/m2-pro-miner-faq-c6b4e8e60ab9)
+
+
+## Does the M2 Pro use a lot of electricity or internet bandwidth?
+No, the M2 Pro uses less than the average household light bulb of electricity per day, and data usage has been reported to be about 500-800 MB per month or less.
+
+[More information](https://cdn.shopify.com/s/files/1/0565/1323/3091/files/M2_Pro_One-pager-ENG.pdf?v=1619529247)
 
 
 ## Will I earn more if I own more than one M2 Pro miner?
