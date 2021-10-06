@@ -32,7 +32,7 @@ You can purchase the M2 Pro miner from [MatchX.io](https://matchx.io/pages/m2-pr
 - **MATCH50**
 
 ## How long does it take to get an M2 Pro miner?
-It's currently running about 3-4 weeks delivery in the EU area, and about 4-6 weeks in North America and through most of the rest of the world.
+It's currently running about 2-4 weeks delivery (or better) in most parts of the world.
 
 ## Does having more than one M2 Pro miner help earn more DHX?
 Yes and no. Having one M2 Pro miner allows you to only need HALF of the amount of MXC for maximizing your DHX mining, compared to having NO miner when mining DHX.  But it only does this for the first one million MXC.  A second miner would continue the same benefit past one million MXC (up to two million), that the first miner was providing for the first one million MXC.  A third miner would do the same for two million to three million MXC, etc.
