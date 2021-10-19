@@ -11,7 +11,7 @@ One just needs to purchase the [M2 Pro miner](https://www.matchx.io/product/m2-p
 
 
 ## How much does the M2 Pro miner earn?
-From user reports, the M2 Pro miner earns from $10 - $14 USD worth of MXC per day per miner. The number of MXC tokens mined each day varies, as the price of MXC changes, so that the earnings always stay within this $10 - $14 USD range each day per miner.
+From user reports, the M2 Pro miner earns in the range of $10 - $14 USD worth of MXC per day per miner (with an average of around $11 per day). The number of MXC tokens mined each day varies, as the price of MXC changes, so that the earnings always stay within this $10 - $14 USD range each day per miner.
 
 [More information](https://mxcfoundation.medium.com/worlds-most-popular-iot-miner-m2-pro-5f3d56d87a16)
 
@@ -108,6 +108,11 @@ It comes largely from early investors and on-going buy-backs from the non-profit
 *"As a result of this, and in consultation with our range of impressive investors ranging from Huobi, Atlantic Labs, VeChain, LongHash, IOSG Ventures through to JD.com we spoke of a vision of hosting a decentralized network, a network that would spread the globe and allow anyone to join, receive data and monetize the process. ...*
 
 *"As a result of this vision, the mining funds come from two key areas, early investors, who realize the need to sustain a robust new-age global data network, and from the MXC buy-back, which up until 2019 had raised close to $12 million in buy-backs and will continue to raise more buy-back rounds in order to recover $MXC, which the team believes is currently severely under-priced."* [(source)](https://medium.com/mxc/m2-pro-miner-faq-c6b4e8e60ab9)
+
+
+## Can I get an earnings report of my miner, to see the daily MXC earnings for tax and other reasons?
+
+Yes, in the DataDash app, in the Settings menu (click the cogwheel icon in the upper right corner of the Home screen), choose "Export Mining Data" and this will give you the option to download the daily earnings.  Currently, only MXC is enabled (but the DHX and BTC earnings should be available in the future).
 
 
 ## What is Miner Health?
