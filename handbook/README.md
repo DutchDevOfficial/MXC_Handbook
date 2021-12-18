@@ -40,3 +40,7 @@ If you are interested in **mining** MXC and participating in this worldwide IoT 
 We are **passionate MXC supporters** who strongly believe in the vision of MXC and the global rollout of the MXC Data Network. 
 
 <i>PLEASE NOTE: This guide is made **by** the Community, **for** the Community and your participation and feedback is welcome. This Handbook was made and is being updated by volunteers from the MXC Community via Github, and the information is provided to the best of our ability. If you find anything incorrect or out-of-date in this Handbook, please let us know by submitting proposals via Github, or reaching out to us on [Telegram](https://t.me/mxcfoundation) or [Discord](https://mxc.news/mxcdiscord). Additionally, if you have any more detailed questions that this guide does not answer, feel free to ask in the same [MXC Telegram supporter's group](https://t.me/mxcfoundation) or [MXC Discord](https://mxc.news/mxcdiscord) or on other social media. And you can also contact the MXC Foundation via their website [MXC.org](https://www.mxc.org/), or via email at hello@mxc.org. </i>
+
+
+### Ad test
+<div class="xc449bad4854773ff" data-zone="504b3be85fe54db4868e39d18fac643e" style="width:250px;height:250px;display: inline-block;margin: 0 auto"></div>
