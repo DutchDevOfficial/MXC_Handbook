@@ -92,9 +92,12 @@ This table shows the differences between the different IoT projects out there, a
 
 ## MXC is Available on a few Cryptocurrency Exchanges
 
-[Okex](https://www.okex.com/join/3966016) *Low Fees | High Liquidity | invite: 3966016*
-<br>[Huobi](https://www.huobi.com/en-us/topic/welcome-bonus/?invite_code=jgy68) *Earn up to $170 welcome bonus! | invite: jgy68*- [HOO]<br>[HOO](https://www.hoo.co/friends/26815795?localeLang=en&) *Buy both MXC and DHX | invite code: 26815795* (lowest fees)
-<br>[Biki](https://www.biki.cc/en_US/register?inviteCode=WGTHEWT) * DHX only (since 30/8/2021) | invite: WGTHEWT*
+- [Okex](https://www.okex.com/join/3966016) *Low Fees | High Liquidity | invite: 3966016*
+- [Huobi](https://www.huobi.com/en-us/topic/welcome-bonus/?invite_code=jgy68) *Earn up to $170 welcome bonus! | invite: jgy68*
+- [HOO](https://www.hoo.co/friends/26815795?localeLang=en&) *Buy both MXC and DHX | invite code: 26815795* (lowest fees)
+- [Gate](https://www.gate.io/ref/3836888) *using this link you get 20% off fees | invite:3836888*
+
+<!-- <br>[Biki](https://www.biki.cc/en_US/register?inviteCode=WGTHEWT) * DHX only (since 30/8/2021) | invite: WGTHEWT* -->
 
 Check them out on one of these sites:
 <br>[coingecko](https://www.coingecko.com/en/coins/mxc#markets)
