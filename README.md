@@ -37,3 +37,6 @@ Everyone who helped this project reach its current state will be thanked in this
 * [WM](https://t.me/wiseoldman)
 * [PHAN](https://t.me/PHANzgz)
 * [Tavern Side Gaming](https://t.me/TavernSideGaming)
+
+### Ad test
+<div class="xc449bad4854773ff" data-zone="504b3be85fe54db4868e39d18fac643e" style="width:250px;height:250px;display: inline-block;margin: 0 auto"></div>
