@@ -16,7 +16,7 @@
 
 - Community
     - [🏗️ Help to build](MDFiles/HelpToBuild.md)
-    - [🤝 Support us](handbook/MDFiles/support.md)
+    - [🤝 Support us](MDFiles/support.md)
     - [⭐ Wall of Fame](MDFiles/WallOfFame.md)
     - [📇 Contact](https://t.me/Dutchdev)
 
