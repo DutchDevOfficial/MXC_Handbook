@@ -5,7 +5,7 @@
     - [⛏️ Bitcoin mining](MDFiles/BitcoinMining.md)
     - [MXC Background and Credentials](MDFiles/MXCBackgroundAndCredentials.md)
     - ["Rep" (in Telegram)](MDFiles/Rep.md)
-    <!-- - [🤑 Promo code 🤑](MDFiles/promo.md) -->
+    - [🤑 Promo code 🤑](MDFiles/promo.md)
 
 - AMA Sessions ("Ask Me Anything")
     - [AMA's](MDFiles/AMAs.md)
